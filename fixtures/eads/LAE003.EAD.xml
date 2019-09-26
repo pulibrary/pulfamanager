@@ -1,0 +1,2131 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" audience="external">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-NjP" url="http://arks.princeton.edu/ark:/88435/bc386j24c" urn="ark:/88435/bc386j24c">LAE003</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Church Materials from Guatemala, II, <date normal="1913/2001" type="inclusive">1913-2001</date>: Finding Aid</titleproper>
+         </titlestmt>
+         <publicationstmt id="LAEaddress">
+            <publisher>Princeton University Library</publisher>
+            <address>
+               <addressline>One Washington Road</addressline>
+               <addressline>Princeton, New Jersey 08544 USA</addressline>
+               <addressline>Phone: (609) 258-5964</addressline>
+               <addressline>refdesk@princeton.edu</addressline>
+               <addressline>http://library.princeton.edu/</addressline>
+            </address>
+            <date type="publication" normal="2007">2007</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding aid encoded in EAD 2002 by TechBooks and Cristela García-Spitz on <date normal="2007-07-20">July 20, 2007</date>. </creation>
+         <langusage>
+            <language langcode="eng"/>
+         </langusage>
+         <descrules>Finding aid content adheres to that prescribed by <emph render="italic">Describing Archives: A Content Standard.</emph>
+         </descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2012-05-02">2012-05-02T16:54:05.165-04:00</date>
+            <item>Run through PULFA 2.0 normalization routines.</item>
+         </change>
+         <change>
+            <date normal="2012-10-10">2012-10-10T14:27:16.146-04:00</date>
+            <item>Run through PULFA 2.0 normalization routines.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc type="findingaid" level="collection" relatedencoding="marc21">
+      <did>
+         <unitid type="collection" countrycode="US" repositorycode="US-NjP">MICROFILM 12378</unitid>
+         <unitid type="collection" countrycode="US" repositorycode="US-NjP">LAE003</unitid>
+         <repository id="lae">
+            <corpname source="lcsh">Princeton University. Library. Dept. of Rare Books and Special Collections</corpname>
+            <address>
+               <addressline>One Washington Road</addressline>
+               <addressline>Princeton, New Jersey 08544 USA</addressline>
+            </address>
+         </repository>
+         <unittitle>Church Materials from Guatemala, II</unittitle>
+         <unitdate normal="1913/2001" type="inclusive">1913-2001</unitdate>
+         <physdesc>
+            <extent>6 microfilm reels</extent>
+            
+         </physdesc>
+         <origination>
+            <corpname source="lcnaf" altrender="Guatemala" role="col">Princeton University. Library.</corpname>
+            <!--
+Possible URIs:
+http://viaf.org/viaf/168223982 : Princeton University. Library. Friends
+http://viaf.org/viaf/121763554 : Princeton university. Library
+http://viaf.org/viaf/220858273 : Conference on Library Education
+http://viaf.org/viaf/155995009 : Gest Oriental Library and East Asian Collections
+http://viaf.org/viaf/158353929 : Princeton University. Library. Graphic Arts Collection
+http://viaf.org/viaf/141659324 : Cotsen children's library Princeton, N.J.
+http://viaf.org/viaf/151910152 : Princeton Emblem Project
+http://viaf.org/viaf/129838879 : Seeley G. Mudd Manuscript Library
+http://viaf.org/viaf/159792701 : Leonard L. Milberg Irish Theater Collection
+http://viaf.org/viaf/157464452 : John Shaw Pierson Civil War Collection
+http://viaf.org/viaf/156318737 : Margaret Jane Pershing Collection of Emily Dickinson
+http://viaf.org/viaf/155220171 : Princeton University. Pliny-Fisk Statistical Library
+http://viaf.org/viaf/155127114 : Leonard L. Milberg Collection of Jewish American Writers
+http://viaf.org/viaf/153995546 : Leonard L. Milberg Collection of Irish Prose
+http://viaf.org/viaf/151613990 : East Asian Library and the Gest Collection
+http://viaf.org/viaf/149284344 : Gallatin Beardsley Collection
+http://viaf.org/viaf/147981977 : Junius Spencer Morgan Collection
+http://viaf.org/viaf/147018644 : Colloquium on Islamic Culture in its Relations to the Contemporary World (1953 : Princeton University and Library of Congress)
+http://viaf.org/viaf/139910002 : Weaver Collection on the French Revolution
+http://viaf.org/viaf/139905778 : Morris L. Parrish Collection of Victorian Novelists
+http://viaf.org/viaf/137283825 : Princeton University. Library. Dept. of Rare Books and Special Collections
+http://viaf.org/viaf/136389730 : Scheide Library
+http://viaf.org/viaf/136385532 : Sinclair Hamilton Collection of American Illustrated Books
+http://viaf.org/viaf/134044342 : JĂ¸rgen W. Schmidt Collection
+http://viaf.org/viaf/132639352 : Leonard L. Milberg Gallery for the Graphic Arts
+http://viaf.org/viaf/131310408 : Cotsen Children's Library-\-Los Angeles
+http://viaf.org/viaf/130545291 : Stanley Lieberman Memorial Collection of Nineteenth-Century American Juvenile Literature
+http://viaf.org/viaf/128281128 : Princeton University. Library Assistants Association
+http://viaf.org/viaf/128001166 : Leonard L. Milberg Collection of American Poetry
+http://viaf.org/viaf/125862541 : Alexander D. Wainwright Collection of Thomas Wolfe
+http://viaf.org/viaf/125835819 : Charles Rahn Fry Pochoir Collection
+http://viaf.org/viaf/125814011 : Leonard L. Milberg Collection of Irish Poetry
+http://viaf.org/viaf/121155345 : Rossetti Collection of Janet Camp Troxell
+-->
+      </origination>
+         <langmaterial>
+            <language langcode="spa"/>
+         </langmaterial>
+         <abstract>This microfilm contains pamphlet materials published by Christian groups in Guatemala between 1929 and 2001. </abstract>
+         <physloc type="text">Microfilm of this collection is stored onsite at Firestone Library and offsite at the ReCAP facility. It can be consulted in Microforms Service, Firestone Library (<extref xlink:href="http://firestone.princeton.edu/microforms/" xlink:type="simple">http://firestone.princeton.edu/microforms/</extref>). </physloc>
+         <physloc type="code">flm</physloc>
+         <physloc type="code">rcppf</physloc>
+      </did>
+      <bioghist>
+         
+         <p>The Princeton University Library has developed numerous collections of Latin American ephemera that are unique in their depth and scope. Privileging the popular voices of the region, the collections document numerous political and social movements, and a wide variety of key socioeconomic and cultural developments. Some particularly well-documented topics are grassroots organizing, human rights, electoral politics, indigenous issues, women and gender issues, youth, the environment, health, education, and religion. Types of primary materials collected include pamphlets, non-commercially produced and distributed serials, flyers, posters, working papers, government publications, and other non-traditional formats. Most of the documentation in the collections was produced after the mid 1960s by Latin American nongovernmental organizations of all types, interest groups, political parties, research institutes, and government agencies.</p>
+         <p>The intensive collecting of ephemera was initiated by Barbara Hadley Stein, the University’s first Bibliographer for Latin America, Spain and Portugal (1966-1977). She sought to document some of the major political developments of the period, including the rise to power of military dictatorships, coup d’états, the institutionalization of the Cuban Revolution, and the popular responses to those developments. Her successor, Peter T. Johnson (1977-2003), expanded the geographic and thematic scope of the collections and systematized the process of organizing, cataloging, and preserving them. Intensive collecting in this area continues to this date.</p>
+         <p>Over the years, materials have been grouped and organized by country or region, and by topic or subject area. Once collections are fully organized, they are cataloged and microfilmed. A complete list of collections appears in the Guide to the Princeton University Latin American Microfilm Collection (Wilmington, DE: Scholarly Resources, 1993) and subsequent supplements. Many of the collections’ finding aids are available online. Original print materials have been preserved in many cases.</p>
+      </bioghist>
+      <descgrp id="dacs3">
+         <scopecontent>
+            <p>This microfilm contains pamphlet materials published by Christian groups in Guatemala between 1929 and 2001. The materials are divided into alphabetically arranged files according to subject. These subject divisions are not meant to be strict or definitive. They are merely a guideline for the researcher. Some pamphlets may fit just as well under one subject heading as another, and the materials in various files may overlap in scope.</p>
+            <p>The majority of the material in this microfilm is published by the Catholic Church. Much of it consists of essays on points of theological debate, the current state of the Church in Guatemala, or the Church's response to socio-economic issues. Of particular interest are several pamphlets about individual works of religious art or sculpture and the local traditions and rituals surrounding them (see File 7: History and File 13: Religious Art). The last file, File 19: Miscellaneous, should not be overlooked by the researcher. Though the pamphlets in this file could not be easily grouped under a single subject heading, they are no less interesting than the rest of the contents of the microfilm.</p>
+         </scopecontent>
+         <arrangement>
+            <p>The materials are divided into alphabetically arranged files according to subject. Within each file, publications are arranged alphabetically by title.</p>
+         </arrangement>
+      </descgrp>
+      <descgrp id="dacs4">
+         <accessrestrict type="open">
+            <p>The Latin American ephemera collections are open for research use.</p>
+            <p>Microfilm can be consulted in Microforms Service, Firestone Library (<extref xlink:href="http://firestone.princeton.edu/microforms/" xlink:type="simple">http://firestone.princeton.edu/microforms/</extref>).</p>
+         </accessrestrict>
+         <accessrestrict type="remotestorage">
+            <p>Please consult with the Department of Rare Books and Special Collections about having those portions of the collection that are stored off site recalled to the Department for your use. This process normally requires 48-72 hours notice.</p>
+         </accessrestrict>
+         <userestrict>
+            <p>No restrictions. Researchers are responsible for determining any copyright questions.</p>
+         </userestrict>
+      </descgrp>
+      <descgrp id="dacs6">
+         <altformavail>
+            <p>MICROFILM 7792 (Master printing copy. Available for reproduction only.)</p>
+         </altformavail>
+      </descgrp>
+      <descgrp id="dacs7">
+         <prefercite>
+            <p>Identification of specific item; Date (if known); Church Materials from Guatemala, II; Princeton University Library.</p>
+         </prefercite>
+         <processinfo id="processing">
+            <p>This collection was processed by <name role="processor">Amanda Post Whitehead</name> in <date type="processed" normal="2003">2003</date>. Finding aid written by <name role="author">Amanda Post Whitehead</name> in <date type="processed" normal="2003">2003</date>.</p>
+         </processinfo>
+      </descgrp>
+      <dao xlink:title="Princeton University Latin American Ephemeral Collections" xlink:href="bioghist-images/laelogo.jpg" xlink:type="simple"/>
+      <controlaccess>
+         
+
+         <corpname source="lcnaf">Catholic Church -- Guatemala.</corpname>
+         <subject source="lcsh">Church and social problems -- Guatemala.</subject>
+         <subject source="lcsh">Protestant churches -- Guatemala.</subject>
+         <subject source="lcsh">Religion and politics -- Guatemala.</subject>
+         <subject source="lcsh">Religious architecture -- Guatemala.</subject>
+         <subject source="lcsh">Religious art -- Guatemala.</subject>
+         <subject source="lcsh">Religious biography -- Guatemala.</subject>
+         <subject source="lcsh">Religious education -- Guatemala.</subject>
+         <subject rules="local" source="local" encodinganalog="690" authfilenumber="t37">Latin American studies</subject>
+      </controlaccess>
+      <dsc type="combined">
+         <c level="file" id="LAE003_c0001">
+            <did>
+               <unitid type="itemnumber">File 1</unitid>
+               <unittitle>Biblical Figures and Concepts</unittitle>
+               <unitdate normal="1997-01-01/1997-12-31" type="inclusive">1997</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0002">
+               <did>
+                  <unittitle altrender="cruz de Cristo. Juan Kessler. San José, Costa Rica: Instituto Internacional de Evangelización a Fondo (IINDEF)">
+                     <emph render="italic">La cruz de Cristo.</emph> Juan Kessler. San José, Costa Rica: Instituto Internacional de Evangelización a Fondo (IINDEF)</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>88p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0003">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Ella. Nuestra Señora del Sagrado Corazón, abogada de las causas difíciles y deseperadas.</emph> Joaquín Herrera Bayón. Guatemala: Misioneros del Sagrado Corazón (MSC)</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>67p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0004">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Jesús de Nazaret, su tiempo y su proyecto.</emph> Fernando Bermúdez. Guatemala: Semilla de Esperanza</unittitle>
+                  <unitdate normal="1997/1997">1997</unitdate>
+                  <physdesc>
+                     <extent>32p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0005">
+            <did>
+               <unitid type="itemnumber">File 2</unitid>
+               <unittitle>Biographies of Church Figures</unittitle>
+               <unitdate normal="1913-01-01/1998-12-31" type="inclusive">1913-1998</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0006">
+               <did>
+                  <unittitle altrender="Beato Hermano Pedro: en el X aniversario de su beatificación. Damián C. Muratori. Guatemala: s.n.">
+                     <emph render="italic">El Beato Hermano Pedro: en el X aniversario de su beatificación.</emph> Damián C. Muratori. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1991/1991">1991</unitdate>
+                  <physdesc>
+                     <extent>35p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0007">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Beato Hermano Pedro de San José de Betancour, T.F.: Carta Viva de Crista.</emph> José Francisco García Bauer. s.l.: s.n.</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>27p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0008">
+               <did>
+                  <unittitle>
+                     <emph render="italic">De los negocios al ministerio: testimonio personal de Samuel Berberian.</emph> Samuel Berberian. Guatemala: Ediciones SA-BER</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>14p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0009">
+               <did>
+                  <unittitle altrender="flor de Xelajú. Josefina Oliva Mazariegos, Cecilia Teresa Vargas Méndez, et.al. Guatemala: Las Hermanas Bethlemitas">
+                     <emph render="italic">Una flor de Xelajú.</emph> Josefina Oliva Mazariegos, Cecilia Teresa Vargas Méndez, et.al. Guatemala: Las Hermanas Bethlemitas</unittitle>
+                  <unitdate normal="1985/1985">1985</unitdate>
+                  <physdesc>
+                     <extent>39p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0010">
+               <did>
+                  <unittitle altrender="Hermano Pedro, un hombre de Dios. Marta Pilon. Guatemala: Editorial Artemis &amp; Edinter">
+                     <emph render="italic">El Hermano Pedro, un hombre de Dios.</emph> Marta Pilon. Guatemala: Editorial Artemis &amp; Edinter</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>80p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0011">
+               <did>
+                  <unittitle altrender="leyenda de Sor Angélica. Avelino F. Mariscal. Guatemala: Tipografía “América”">
+                     <emph render="italic">La leyenda de Sor Angélica.</emph> Avelino F. Mariscal. Guatemala: Tipografía "América"</unittitle>
+                  <unitdate normal="1934/1934">1934</unitdate>
+                  <physdesc>
+                     <extent>67p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0012">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Madre Encarnación Rosal, primera santa de Guatemala.</emph> Josefina Oliva Mazariegos. [Guatemala: Hermanas Bethlemitas]</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>24p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0013">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Mártir de la Paz: Monseñor Juan Gerardi Conedera, 1922-1998.</emph> s.a. [Guatemala]: Oficina de Derechos Humanos del Arzobispado de Guatemala (ODHAG)</unittitle>
+                  <unitdate normal="1998/1998">1998</unitdate>
+                  <physdesc>
+                     <extent>48p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0014">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Padre Guatemala: el misionero de Quetzaltenango.</emph> José Diaz Durán. Guatemala, C.A.: Talleres Gráficos de Editorial E. A. Galindo</unittitle>
+                  <unitdate normal="1979/1979">1979</unitdate>
+                  <physdesc>
+                     <extent>79p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0015">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Reseña biográfica del ilustrísimo y reverendísimo Señor Arzobispo de Santiago de Guatemala don Ricardo Casanova y Estrada.</emph> José M. Ramírez Colom. Guatemala: Tipografía Sánchez &amp; De Guise</unittitle>
+                  <unitdate normal="1913/1913">1913</unitdate>
+                  <physdesc>
+                     <extent>95p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0016">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Santo Domingo de Guzmán y los Domínicos.</emph> [Fray Nelson D. Castillo Valle and Fray Héctor Manuel Araya Madrigal] Guatemala: [Padres Domínicos]</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>22p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0017">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Tarzán López, domador de fieras.</emph> Alfonso Aurelio López Ochoa and Martha de Berberián. Guatemala, C.A.: Alfonso López and Ediciones SA-BER</unittitle>
+                  <unitdate normal="1985/1985">1985</unitdate>
+                  <physdesc>
+                     <extent>36p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0018">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Uaxactun.</emph> Guatemala: Editorial de Ministerio de Educación Pública</unittitle>
+                  <unitdate normal="1961-06-01/1961-06-01">1961 June 1</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0019">
+                  <did>
+                     <unittitle>Año I, no.1</unittitle>
+                     <unitdate normal="1961-06-01">1961 June 1</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file" id="LAE003_c0020">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Vida del P. Fr. Domingo de Betanzos de la Orden de Santo Domingo.</emph> Juan Rodríguez Cabal. Guatemala: Tipografía Sánchez &amp; De Guise</unittitle>
+                  <unitdate normal="1934/1934">1934</unitdate>
+                  <physdesc>
+                     <extent>84p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0021">
+            <did>
+               <unitid type="itemnumber">File 3</unitid>
+               <unittitle>The Church and Indigenous Peoples</unittitle>
+               <unitdate normal="1987-01-01/1996-12-31" type="inclusive">1987-1996</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0022">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Clamor y resurrección del Pueblo Maya.</emph> s.a. [Cobán]: Pastoral Indígena de Guatemala</unittitle>
+                  <unitdate normal="1992/1992">1992</unitdate>
+                  <physdesc>
+                     <extent>44p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0023">
+               <did>
+                  <unittitle altrender="cofre: iniciación de los niños mayas en la vida cristiana. Carlos Berganza, Ed. Cobán: Ak' Kutan, Centro Bartolomé de las Casas">
+                     <emph render="italic">El cofre: iniciación de los niños mayas en la vida cristiana.</emph> Carlos Berganza, Ed. Cobán: Ak' Kutan, Centro Bartolomé de las Casas</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>57p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0024">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Documento sobre pastoral Indígena.</emph> s.a. Cobán: Conferencia Interprovincial Dominicos América Latina (CIDAL)</unittitle>
+                  <unitdate normal="1988/1988">1988</unitdate>
+                  <physdesc>
+                     <extent>57p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Dossier CIDAL; 4)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0025">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Estos, sí son hombres: a propósito de Bartolomé de las Casas.</emph> Fernando Suazo and J. Amando Robles. Cobán: Ak' Kutan, Centro Bartolomé de las Casas</unittitle>
+                  <unitdate normal="1992/1992">1992</unitdate>
+                  <physdesc>
+                     <extent>76p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Textos Ak' Kutan;1)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0026">
+               <did>
+                  <unittitle altrender="Iglesia y el movimiento indígena en Guatemala. Ivon le Bot. Jorge Luis Arriola, Trans. Guatemala: Seminario de Integración Social Guatemalteca">
+                     <emph render="italic">La Iglesia y el movimiento indígena en Guatemala.</emph> Ivon le Bot. Jorge Luis Arriola, Trans. Guatemala: Seminario de Integración Social Guatemalteca</unittitle>
+                  <unitdate normal="1987/1987">1987</unitdate>
+                  <physdesc>
+                     <extent>37p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Cuadernos del Seminario de Integración Social Guatemalteca; sexta serie, no.31, 1987)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0027">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Memoria del primer encuentro de catequistas.</emph> s.a. Cobán: Pastoral Indígena de Guatemala</unittitle>
+                  <unitdate normal="1990/1990">1990</unitdate>
+                  <physdesc>
+                     <extent>75p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0028">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Plan nacional de pastoral indígena.</emph> s.a. Comisión Nacional de Pastoral Indígena de la CEG</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>32p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0029">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Respetemos las canas y retoños del Pueblo Maya.</emph> Félix Lorenzo Velásquez Saquic. Guatemala: Saquil Tzij de PRODESSA</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>98p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0030">
+            <did>
+               <unitid type="itemnumber">File 4</unitid>
+               <unittitle>The Church's Role in Society</unittitle>
+               <unitdate normal="1961-01-01/1996-12-31" type="inclusive">1961-1996</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0031">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Análisis de la participación política de los evangélicos en Guatemala.</emph> Vitalino Similox Salazar. Guatemala: Conferencia de Iglesias Evangélicas de Guatemala</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>30p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0032">
+               <did>
+                  <unittitle altrender="caminata por la paz/Tun b'inem rech saq lianik k'aslemal. Marvin Sánchez and Mario Recancoj. Guatemala: Editorial Saqil Tzij and Escuela Superior de Educación Integral Rural (ESEDIR)">
+                     <emph render="italic">Una caminata por la paz/Tun b'inem rech saq lianik k'aslemal.</emph> Marvin Sánchez and Mario Recancoj. Guatemala: Editorial Saqil Tzij and Escuela Superior de Educación Integral Rural (ESEDIR)</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>105p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0033">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Carta pastoral del excmo. y revmo.</emph> Sr. Dr. Constantino Luna y Pianegonda, Obispo de la Diócesis de Zacapa sobre los deberes cívicos del Católico. Constantino Luna y Pianegonda. [Zacapa]: s.n.</unittitle>
+                  <unitdate normal="1961/1961">1961</unitdate>
+                  <physdesc>
+                     <extent>25p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0034">
+               <did>
+                  <unittitle altrender="clamor por la tierra: carta pastoral colectiva del Episcopado Guatemalteco. Monseñor Próspero Penados del Barrio, Monseñor Rodolfo Quezada Toruño, et.al. Guatemala, C.A.: s.n.">
+                     <emph render="italic">El clamor por la tierra: carta pastoral colectiva del Episcopado Guatemalteco.</emph> Monseñor Próspero Penados del Barrio, Monseñor Rodolfo Quezada Toruño, et.al. Guatemala, C.A.: s.n.</unittitle>
+                  <unitdate normal="1988/1988">1988</unitdate>
+                  <physdesc>
+                     <extent>28p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0035">
+               <did>
+                  <unittitle altrender="clamor por la tierra, versión popular. s.a. [Guatemala, C.A.]: s.n.">
+                     <emph render="italic">El clamor por la tierra, versión popular.</emph> s.a. [Guatemala, C.A.]: s.n.</unittitle>
+                  <unitdate normal="1988/1988">1988</unitdate>
+                  <physdesc>
+                     <extent>29p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0036">
+               <did>
+                  <unittitle altrender="compromiso del cristiano frente a los derechos humanos. Ramiro de León Carpio. Guatemala, C.A.: Editorial Cultura">
+                     <emph render="italic">El compromiso del cristiano frente a los derechos humanos.</emph> Ramiro de León Carpio. Guatemala, C.A.: Editorial Cultura</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>53p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0037">
+               <did>
+                  <unittitle altrender="cristianos frente al neoliberalismo. Fernando Bermúdez. Guatemala: Oficina de Derechos Humanos del Arzobispado de Guatemala, 1996 (Colección nueva presencia; 3)">
+                     <emph render="italic">Los cristianos frente al neoliberalismo.</emph> Fernando Bermúdez. Guatemala: Oficina de Derechos Humanos del Arzobispado de Guatemala, 1996 (Colección nueva presencia; 3)</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0038">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Cristo muere y resucita en Guatemala.</emph> Fernando Bermúdez. Buenos Aires: Casa Unida de Publicaciones, S.A. (CUPSA)</unittitle>
+                  <unitdate normal="1985/1985">1985</unitdate>
+                  <physdesc>
+                     <extent>68p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Voces Cristianas Latinoamericanas; no. 2)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0039">
+               <did>
+                  <unittitle altrender="cristianos de América Latina frente al neoliberalismo. s.a. Guatemala: Oficina de Derechos Humanos del Arzobispado de Guatemala, Departamento de Educación y Promoción">
+                     <emph render="italic">Los cristianos de América Latina frente al neoliberalismo.</emph> s.a. Guatemala: Oficina de Derechos Humanos del Arzobispado de Guatemala, Departamento de Educación y Promoción</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>64p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0040">
+               <did>
+                  <unittitle altrender="derechos humanos en las sagradas escrituras. Julio Aguilar. Guatemala: Oficina de Derechos Humanos del Arzobispado de Guatemala, 1993 (Colección nueva presencia; 1)">
+                     <emph render="italic">Los derechos humanos en las sagradas escrituras.</emph> Julio Aguilar. Guatemala: Oficina de Derechos Humanos del Arzobispado de Guatemala, 1993 (Colección nueva presencia; 1)</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0041">
+               <did>
+                  <unittitle altrender="Iglesia y los derechos humanos. José Álvarez Lobo Guatemala City: Editorial Lascasiana">
+                     <emph render="italic">La Iglesia y los derechos humanos.</emph> José Álvarez Lobo Guatemala City: Editorial Lascasiana</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>47p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Colección pastoral)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0042">
+               <did>
+                  <unittitle>
+                     <emph render="italic">"Ofensiva del pueblo": campesino contra campesino.</emph> s.a. s.l.: Iglesia Guatemalteca en el Exilio (IGE)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+                  <physdesc>
+                     <extent>33p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0043">
+               <did>
+                  <unittitle altrender="protestantismo en dos barrios marginales de Guatemala. Bryan Roberts. Guatemala: Seminario de Integración Social Guatemalteca">
+                     <emph render="italic">El protestantismo en dos barrios marginales de Guatemala.</emph> Bryan Roberts. Guatemala: Seminario de Integración Social Guatemalteca</unittitle>
+                  <unitdate normal="1967/1967">1967</unitdate>
+                  <physdesc>
+                     <extent>22p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Estudios centroamericanos; no.2)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0044">
+               <did>
+                  <unittitle altrender="pueblo como sujeto. Alternativas desde lo excluidos. Guatemala: Conferencia Interprovincial Dominicos América Latina (CIDAL)">
+                     <emph render="italic">El pueblo como sujeto. Alternativas desde lo excluidos.</emph> Guatemala: Conferencia Interprovincial Dominicos América Latina (CIDAL)</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>60p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Dossier CIDAL 7)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0045">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Siete meditaciones sobre la paz: discurso pronunciado en la Catedral Metropolitana el 6 de enero de 1969.</emph> Carlos Martínez Duran. Guatemala: Editorial "José de Pineda Ibarra"</unittitle>
+                  <unitdate normal="1969/1969">1969</unitdate>
+                  <physdesc>
+                     <extent>21p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0046">
+               <did>
+                  <unittitle>
+                     <emph render="italic">¡Urge la verdadera paz!</emph> s.a. s.l.: Conferencia Episcopal de Guatemala (CEG)</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>80p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0047">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Valores y reingeniería de los partidos demócrata cristianos.</emph> Miguel Ángel Rodríguez E. Ciudad de Guatemala: Instituto Centroamericano de Estudios Políticos (INCEP)</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>86p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Ensayos socialcristianos; 3)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0048">
+               <did>
+                  <unittitle>Series: Doctrina social de la Iglesia, published by the Instituto de Enseñanza para el Desarrollo Sostenible</unittitle>
+                  <unitdate>dates not examined</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0049">
+                  <did>
+                     <unittitle>
+                        <emph render="italic">Centesimus annus y capitalismo.</emph> Ramón Rodríguez Paradela. Guatemala, C.A.: Instituto de Enseñanza para el Desarrollo Sostenible (IEPADES)</unittitle>
+                     <unitdate>undated</unitdate>
+                     <physdesc>
+                        <extent>34p</extent> 
+                         
+                      </physdesc>
+                  </did>
+                  <scopecontent>
+                     <p>(Doctrina social de la Iglesia; 1)</p>
+                  </scopecontent>
+               </c>
+               <c level="file" id="LAE003_c0050">
+                  <did>
+                     <unittitle altrender="cristiano y la política. Ramón Rodríguez Paradela. Guatemala, C.A.: Instituto de Enseñanza para el Desarrollo Sostenible (IEPADES)">
+                        <emph render="italic">El cristiano y la política.</emph> Ramón Rodríguez Paradela. Guatemala, C.A.: Instituto de Enseñanza para el Desarrollo Sostenible (IEPADES)</unittitle>
+                     <unitdate>undated</unitdate>
+                     <physdesc>
+                        <extent>35p</extent> 
+                         
+                      </physdesc>
+                  </did>
+                  <scopecontent>
+                     <p>(Doctrina social de la Iglesia; 2)</p>
+                  </scopecontent>
+               </c>
+               <c level="file" id="LAE003_c0051">
+                  <did>
+                     <unittitle>
+                        <emph render="italic">Fuentes y bases de la doctrina social de la Iglesia.</emph> Ramón Rodríguez Paradela. Guatemala, C.A.: Instituto de Enseñanza para el Desarrollo Sostenible (IEPADES)</unittitle>
+                     <unitdate>undated</unitdate>
+                     <physdesc>
+                        <extent>48p</extent> 
+                         
+                      </physdesc>
+                  </did>
+                  <scopecontent>
+                     <p>(Doctrina social de la Iglesia; 3)</p>
+                  </scopecontent>
+               </c>
+               <c level="file" id="LAE003_c0052">
+                  <did>
+                     <unittitle>
+                        <emph render="italic">Persona y sociedad en doctrina social de la Iglesia.</emph> Ramón Rodríguez Paradela. Guatemala, C.A.: Instituto de Enseñanza para el Desarrollo Sostenible (IEPADES)</unittitle>
+                     <unitdate>undated</unitdate>
+                     <physdesc>
+                        <extent>36p</extent> 
+                         
+                      </physdesc>
+                  </did>
+                  <scopecontent>
+                     <p>(Doctrina social de la Iglesia; 4)</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0053">
+            <did>
+               <unitid type="itemnumber">File 5</unitid>
+               <unittitle>The Eucharist</unittitle>
+               <unitdate normal="1964-01-01/1996-12-31" type="inclusive">1964-1996</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0054">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Comunión en la mano.</emph> s.a. Guatemala: Comisión de Liturgia de la Conferencia Episcopal de Guatemala</unittitle>
+                  <unitdate normal="1991/1991">1991</unitdate>
+                  <physdesc>
+                     <extent>16p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0055">
+               <did>
+                  <unittitle altrender="divina Eucaristía a través de la historia. Manuel Coronado Aguilar. Guatemala: Editorial del Ejército">
+                     <emph render="italic">La divina Eucaristía a través de la historia.</emph> Manuel Coronado Aguilar. Guatemala: Editorial del Ejército</unittitle>
+                  <unitdate normal="1964/1964">1964</unitdate>
+                  <physdesc>
+                     <extent>39p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0056">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Espíritu Santo eucarístico.</emph> Sebastiano Crestani. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>51p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0057">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Eucaristía con niños: plegarias eucarísticas.</emph> s.a. Guatemala: Centro Salesiano de Pastoral Juvenil</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>41p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0058">
+            <did>
+               <unitid type="itemnumber">File 6</unitid>
+               <unittitle>Evangelization</unittitle>
+               <unitdate normal="1992-01-01/2001-08-31" type="inclusive">1992-2001 August</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0059">
+               <did>
+                  <unittitle>
+                     <emph render="italic">500 años sembrando el Evangelio: carta pastoral colectiva de los obispos de Guatemala.</emph> s.a. Guatemala: Conferencia Episcopal de Guatemala (CEG)</unittitle>
+                  <unitdate normal="1992/1992">1992</unitdate>
+                  <physdesc>
+                     <extent>64p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0060">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Inculturación: nuevo rostro de la Iglesia.</emph> Domingo Salado and Jesús Tapuerca. Coban: Ak' Kutan, Centro Bartolomé de las Casas</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>79p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Textos Ak' Kutan; 5)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0061">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Proclamando a Jesús entre los pueblos no alcanzados.</emph> Guatemala: Dirección Nacional de Misiones y Evangelismo, Iglesia de Dios Evangelio Completo de Guatemala</unittitle>
+                  <unitdate normal="2001-06-01/2001-08-31" type="inclusive">2001 June-August</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0062">
+                  <did>
+                     <unittitle>Vol.1, no.1</unittitle>
+                     <unitdate type="inclusive" normal="2001-06/2001-08">2001 June-August</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file" id="LAE003_c0063">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Reflexiones finales sobre la cultura y la inculturación de la fe, según la carta 500 años sembrando el evangelio.</emph> Víctor Hugo Martínez Contreras. Guatemala: Diócesis de Los Altos, Quetzaltenango</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>24p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0064">
+            <did>
+               <unitid type="itemnumber">File 7</unitid>
+               <unittitle>History</unittitle>
+               <unitdate normal="1968-01-01/1999-12-31" type="inclusive">1968-1999</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <scopecontent>
+               <p>(see also File 10: Mass, Prayers, and Other Rituals)</p>
+            </scopecontent>
+            <c level="file" id="LAE003_c0065">
+               <did>
+                  <unittitle altrender="año ritual de la Nía Chabela ... transcurrido en la Nueva Guatemala de la Asunción. Miguel Álvarez Arévalo. Guatemala: Fondo Editorial “La Luz”">
+                     <emph render="italic">El año ritual de la Nía Chabela ... transcurrido en la Nueva Guatemala de la Asunción. Miguel Álvarez Arévalo.</emph> Guatemala: Fondo Editorial "La Luz"</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>55p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0066">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Guía del Convento de Capuchinas de Antigua Guatemala.</emph> Jorge Luján Muñoz. Guatemala: Consejo Nacional para la Protección de la Antigua Guatemala</unittitle>
+                  <unitdate normal="1991/1991">1991</unitdate>
+                  <physdesc>
+                     <extent>46p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0067">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Historia de la Iglesia Santo Domingo de Guatemala.</emph> Fray Juan Rodríguez Cabal and Fray Luis María Estrada Paetau. Guatemala: Convento Santo Domingo</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>61p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0068">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Informe sobre el estado de conservación de las iglesias de Antigua Guatemala y algunas medidas para su preservación.</emph> John E. Hibbitts. [Guatemala]: Universidad de San Carlos de Guatemala</unittitle>
+                  <unitdate normal="1968/1968">1968</unitdate>
+                  <physdesc>
+                     <extent>66p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0069">
+               <did>
+                  <unittitle altrender="orígen del Catolicismo Romano en la Bíblia y en la historia, refutando los errores de los evangélicos. Calixto Senica. Segunda Edición. Patulul: Escuela Parroquial La Inmaculada">
+                     <emph render="italic">El orígen del Catolicismo Romano en la Bíblia y en la historia, refutando los errores de los evangélicos.</emph> Calixto Senica. Segunda Edición. Patulul: Escuela Parroquial La Inmaculada</unittitle>
+                  <unitdate normal="1988/1988">1988</unitdate>
+                  <physdesc>
+                     <extent>63p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0070">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Orígen, erección y fundación de la Hermandad de la Vírgen del Rosario.</emph> Francisco José Cajas Ovando. Quetzaltenango: El Estudiante</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+                  <physdesc>
+                     <extent>11p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Colección Quetzaltenango; Volúmen VI)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0071">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Testamento y título de los antecesores de los Señores de Cagcoh San Cristóbal Verapaz.</emph> Alejandra Colom, Alfredo Maul, et.al. Guatemala, C.A.: Universidad del Valle de Guatemala</unittitle>
+                  <unitdate normal="1999/1999">1999</unitdate>
+                  <physdesc>
+                     <extent>23p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0072">
+            <did>
+               <unitid type="itemnumber">File 8</unitid>
+               <unittitle>Internal Church Publications: Bulletins, Conferences, Letters</unittitle>
+               <unitdate normal="1929-01-01/2000-12-31" type="inclusive">1929-2000</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0073">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Annual Report 1999.</emph> s.a. Guatemala: CEDEPCA</unittitle>
+                  <unitdate normal="1999/1999">1999</unitdate>
+                  <physdesc>
+                     <extent>34p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0074">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Boletín eclesiastico de la Arquidiócesis de Guatemala.</emph> Guatemala: Arzobispado de Guatemala</unittitle>
+                  <unitdate>dates not examined</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0075">
+                  <did>
+                     <unittitle>no.96 (noviembre y diciembre 1989)</unittitle>
+                     <unitdate>dates not examined</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+               <c level="file" id="LAE003_c0076">
+                  <did>
+                     <unittitle>no.98 (marzo y abril 1990)</unittitle>
+                     <unitdate>dates not examined</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+               <c level="file" id="LAE003_c0077">
+                  <did>
+                     <unittitle>no.106 (octubre-diciembre 1991)</unittitle>
+                     <unitdate>dates not examined</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file" id="LAE003_c0078">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Boletín de teología y pastoral.</emph> Guatemala: Instituto de Teología</unittitle>
+                  <unitdate normal="1993-01-01/1993-12-31" type="inclusive">1993</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0079">
+                  <did>
+                     <unittitle>Año 1, no.1</unittitle>
+                     <unitdate normal="1993/1993">1993</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file" id="LAE003_c0080">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Caritas Arquidiocesana.</emph> s.a. Guatemala: Arzobispado de Guatemala</unittitle>
+                  <unitdate normal="1981/1981">1981</unitdate>
+                  <physdesc>
+                     <extent>22p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0081">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Carta pastoral del Arzobispo Monseñor Mariano Rossell y Arellano.</emph> Mariano Rossell y Arellano. [Guatemala]: s.n.</unittitle>
+                  <unitdate normal="1954/1954">1954</unitdate>
+                  <physdesc>
+                     <extent>13p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0082">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Carta pastoral del excelentísimo y reverendísimo Señor Don Luis Durou y Sure, C.M., Arzobispo de Guatemala y Administrador Apostólico de Verapaz y Petén con motivo del próximo Congreso Eucarístico Internacional.</emph> s.a. Guatemala: [Tipografía Sánchez &amp; De Guise]</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>8p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0083">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Directorio de la Arquidiócesis de Guatemala.</emph> s.a. Guatemala: Arzobispado de Guatemala</unittitle>
+                  <unitdate normal="1989-01-01/2000-12-31" type="inclusive">1989-2000</unitdate>
+                  <physdesc>
+                     <extent>36p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0084">
+                  <did>
+                     <unittitle>1989, 1991, 1993, 1994, 1995, 2000</unittitle>
+                     <unitdate normal="1989/1989">1989</unitdate>
+                     <unitdate normal="1991/1991">1991</unitdate>
+                     <unitdate normal="1993/1993">1993</unitdate>
+                     <unitdate normal="1994/1994">1994</unitdate>
+                     <unitdate normal="1995/1995">1995</unitdate>
+                     <unitdate normal="2000/2000">2000</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file" id="LAE003_c0085">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Directorio eclesiástico.</emph> s.a. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1988/1988">1988</unitdate>
+                  <physdesc>
+                     <extent>58p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0086">
+               <did>
+                  <unittitle>
+                     <emph render="italic">En camino hacia el 2000.</emph> Plan global de la Conferencia Episcopal de Guatemala 1997-2000. s.a. s.l.: Ediciones San Pablo</unittitle>
+                  <unitdate normal="1997/1997">1997</unitdate>
+                  <physdesc>
+                     <extent>48p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0087">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Exposición del ceremonial para la consagración de los obispos.</emph> s.a. Guatemala: [Tipografía Sánchez &amp; De Guise, ]</unittitle>
+                  <unitdate normal="1929/1929">1929</unitdate>
+                  <physdesc>
+                     <extent>23p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0088">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Jesucristo ayer, hoy y siempre.</emph> s.a. Guatemala de la Asunción: Conferencia Episcopal de Guatemala</unittitle>
+                  <unitdate normal="1997/1997">1997</unitdate>
+                  <physdesc>
+                     <extent>32p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0089">
+               <did>
+                  <unittitle>
+                     <emph render="italic">"Juntos en acción misional en la década del 90." Encuentro Metodista.</emph> s.a. Antigua, Guatemala: s.n.</unittitle>
+                  <unitdate normal="1991/1991">1991</unitdate>
+                  <physdesc>
+                     <extent>14p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0090">
+            <did>
+               <unitid type="itemnumber">File 9</unitid>
+               <unittitle>Marriage and Family</unittitle>
+               <unitdate normal="1994-01-01/1998-12-31" type="inclusive">1994-1998</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <scopecontent>
+               <p>(see also File 16: Religious Study and Education)</p>
+            </scopecontent>
+            <c level="file" id="LAE003_c0091">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Arzobispado Primado de Guatemala: Pastoral Familiar de Casos Especiales.</emph> s.a. Guatemala: Arquidiócesis Primada de Guatemala</unittitle>
+                  <unitdate normal="1998/1998">1998</unitdate>
+                  <physdesc>
+                     <extent>48p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0092">
+               <did>
+                  <unittitle altrender="familia cristiana, agente primordial de la nueva evangelización. Prospero Penados del Barrio. Guatemala: s.n.">
+                     <emph render="italic">La familia cristiana, agente primordial de la nueva evangelización.</emph> Prospero Penados del Barrio. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>23p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0093">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Matrimonio Eucaristico.</emph> Crestani Sebastiano. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>44p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0094">
+            <did>
+               <unitid type="itemnumber">File 10</unitid>
+               <unittitle>Mass, Prayers, and Other Rituals</unittitle>
+               <unitdate normal="1932-01-01/1994-12-31" type="inclusive">1932-1994</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <scopecontent>
+               <p>(see also File 7: History, File 16: Religious Study and Education)</p>
+            </scopecontent>
+            <c level="file" id="LAE003_c0095">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Amorosa visita y adiós vespertino a Jesús sacramentado: recuerdo de mis bodas de plata sacerdotales.</emph> Julio Martínez Flores. Guatemala: [Tipografía Sánchez y De Guise]</unittitle>
+                  <unitdate normal="1932/1932">1932</unitdate>
+                  <physdesc>
+                     <extent>8p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0096">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Ejercicio de las Diez Lámparas.</emph> Madre Encarnación Rosal. s.l.: s.n.</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>16p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0097">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Estampas tradicionales de Cuaresma en la Antigua Guatemala.</emph> Carlos Alfredo Navas Solares. Guatemala: Fondo Editorial Santiago de Guatemala</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>52p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0098">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Nuestra Semana Santa.</emph> Roberto Vásquez Lorenzana. Guatemala, C.A.: Ethos Comunicación</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>29p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0099">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Procesiones '94: recorridos, horarios, historia.</emph> s.a. Guatemala: Impresos Caudal</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>19p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0100">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Recuerdo: jaculatorias y súplicas al Divino Corazón de Jesús.</emph> s.a. [Antigua Guatemala: Talleres Torres Sucs.]</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>4p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0101">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Semana Santa en la Antigua Guatemala.</emph> Carlos Humberto Quintanilla Meza. Guatemala, C.A.: Consejo Nacional Para la Protección de la Antigua Guatemala</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+                  <physdesc>
+                     <extent>28p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0102">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Sembrador: manual de espiritualidad del evangelizador.</emph> José María Vigil. Guatemala: Editorial Lascasiana</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>90p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0103">
+            <did>
+               <unitid type="itemnumber">File 11</unitid>
+               <unittitle>The Modern Church</unittitle>
+               <unitdate normal="1986-01-01/1998-12-31" type="inclusive">1986-1998</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0104">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Conferencia Episcopal de Guatemala.</emph> Instrucción pastoral colectiva de los Obispos de Guatemala sobre la renovación carismática. s.a. Guatemala: Conferencia Episcopal de Guatemala</unittitle>
+                  <unitdate normal="1986/1986">1986</unitdate>
+                  <physdesc>
+                     <extent>20p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0105">
+               <did>
+                  <unittitle altrender="hora de los laicos: su misión en la Iglesia. Fernando A. Bermúdez López. s.l.: Arzobispado de Guatemala">
+                     <emph render="italic">La hora de los laicos: su misión en la Iglesia.</emph> Fernando A. Bermúdez López. s.l.: Arzobispado de Guatemala</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>52p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0106">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Iglesia universal, iglesias particulares.</emph> Coban: Ak' Kutan, Centro Bartolomé de las Casas</unittitle>
+                  <unitdate normal="1998/1998">1998</unitdate>
+                  <physdesc>
+                     <extent>88p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Textos Ak' Kutan; 13)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0107">
+               <did>
+                  <unittitle altrender="pueblo de Dios (eclesiología). s.a. Guatemala: Arquidiócesis de Guatemala">
+                     <emph render="italic">El pueblo de Dios (eclesiología).</emph> s.a. Guatemala: Arquidiócesis de Guatemala</unittitle>
+                  <unitdate normal="1990/1990">1990</unitdate>
+                  <physdesc>
+                     <extent>124p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0108">
+            <did>
+               <unitid type="itemnumber">File 12</unitid>
+               <unittitle>The Pope</unittitle>
+               <unitdate normal="1971-01-01/1996-12-31" type="inclusive">1971-1996</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <scopecontent>
+               <p>(see also File 16: Religious Study and Education)</p>
+            </scopecontent>
+            <c level="file" id="LAE003_c0109">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Algunas reflexiones sobre la centesimus annus, o, la centenaria, encíclica de Juan Pablo II.</emph> Pope John Paul II. Guatemala City: Asociación de Investigación y Estudios Sociales (ASIES)</unittitle>
+                  <unitdate normal="1992/1992">1992</unitdate>
+                  <physdesc>
+                     <extent>23p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0110">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Carta apostólica de Su Santidad el Papa Pablo VI al Señor Cardenal Mauricio Roy.</emph> Pope Paul VI. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1971/1971">1971</unitdate>
+                  <physdesc>
+                     <extent>39p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0111">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Carta encíclica de Su Santidad el Papa Pablo VI sobre el desarrollo de los pueblos.</emph> Pope Paul VI. Guatemala: Cortesía de los Cursillos de Cristiandad de la Arquidiócesis de Guatemala</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>60p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0112">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Centenario de la encíclica Rerum Novarum.</emph> s.a. s.l.: Departamento de Investigaciones Económicas y Sociales</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>34p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0113">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Mensajes del Papa Juan Pablo II en su segunda visita a Guatemala, Nicaragua y El Salvador.</emph> Pope John Paul II. Guatemala City: Ediciones San Pablo</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>56p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0114">
+               <did>
+                  <unittitle altrender="papa y el evangelio: discurso pronunciado en el Concilio Vaticano por el Obispo Strossmayer. Bishop Strossmayer. Quezaltenango: Tipográfico “El Noticiero Evangélico”">
+                     <emph render="italic">El papa y el evangelio: discurso pronunciado en el Concilio Vaticano por el Obispo Strossmayer.</emph> Bishop Strossmayer. Quezaltenango: Tipográfico "El Noticiero Evangélico"</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>19p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0115">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Recuerdo de la misión de paz de Su Santidad Juan Pablo II durante su visita a la tierra de los Mayas.</emph> Diego Molina. Guatemala: [SFI/DMF]</unittitle>
+                  <unitdate normal="1983/1983">1983</unitdate>
+                  <physdesc>
+                     <extent>30p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0116">
+               <did>
+                  <unittitle altrender="representantes pontificios. s.a. [Guatemala]: s.n.">
+                     <emph render="italic">Los representantes pontificios.</emph> s.a. [Guatemala]: s.n.</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>12p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0117">
+            <did>
+               <unitid type="itemnumber">File 13</unitid>
+               <unittitle>Religious Art</unittitle>
+               <unitdate normal="1978-01-01/1997-12-31" type="inclusive">1978-1997</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0118">
+               <did>
+                  <unittitle>
+                     <emph render="italic">"Consagración" de la imagen del Cristo Yacente, Basílica de Nuestra Señora del Rosario, Templo de Santo Domingo.</emph> José Luis Barrios Quiñónez. s.l.: s.n.</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>63p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0119">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Hace cuatro siglos: las romerías y tradiciones de Esquipulas.</emph> Terry Bond and Oscar Horst. s.l.: s.n.</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>18p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0120">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Jesús de la Merced de Panchoy a la Ermita, 1655-1778.</emph> Miguel Álvarez Arévalo. Guatemala: Fondo Editorial La Luz</unittitle>
+                  <unitdate normal="1997/1997">1997</unitdate>
+                  <physdesc>
+                     <extent>42p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Colección imágenes de Guatemala; Vol.II)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0121">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Jesús Nazareno de los Milagros en la Nueva Guatemala de la Asunción.</emph> Miguel Álvarez Arévalo. Guatemala: Asociación de Jesús Nazareno de los Milagros</unittitle>
+                  <unitdate normal="1978/1978">1978</unitdate>
+                  <physdesc>
+                     <extent>24p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0122">
+               <did>
+                  <unittitle altrender="Señor Sepultado de Santo Domingo. Federico Alfredo Prahl Redondo. Nueva Guatemala de la Asunción: Instituto de Investigaciones Históricas Antropológicas y Arqueológicas">
+                     <emph render="italic">El Señor Sepultado de Santo Domingo.</emph> Federico Alfredo Prahl Redondo. Nueva Guatemala de la Asunción: Instituto de Investigaciones Históricas Antropológicas y Arqueológicas</unittitle>
+                  <unitdate normal="1997/1997">1997</unitdate>
+                  <physdesc>
+                     <extent>89p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Aportes a la historia del arte; no.1, 1997)</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0123">
+            <did>
+               <unitid type="itemnumber">File 14</unitid>
+               <unittitle>Religious Music</unittitle>
+               <unitdate normal="1985-01-01/1985-12-31" type="inclusive">1985</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0124">
+               <did>
+                  <unittitle>
+                     <emph render="italic">37 cantos misioneros vocacionales y otros juveniles.</emph> s.a. s.l.: [Misioneros Combonianos del Corazón de Jesus]</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>15p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Cantos sin fronteras; no.4)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0125">
+               <did>
+                  <unittitle>
+                     <emph render="italic">¡Excelencia! Album de coros.</emph> Jaime Adolfo Gamboa Campos, Vilma M. Quan de García, et.al. Guatemala: Ministerio "Beraca"</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>57p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0126">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Música en su alma: la historia del músico y evangelita guatemalteco Alfredo Colom.</emph> Alfredo Colom M. Guatemala: Ediciones SA-BER</unittitle>
+                  <unitdate normal="1985/1985">1985</unitdate>
+                  <physdesc>
+                     <extent>18p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0127">
+            <did>
+               <unitid type="itemnumber">File 15</unitid>
+               <unittitle>Religious Poetry</unittitle>
+               <unitdate normal="1993-01-01/1996-12-31" type="inclusive">1993-1996</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0128">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Perfume de lirio: poesía lírica evangélica.</emph> Délfido Barrera Navas. Guatemala: Fondo de Cultura Editorial</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>95p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0129">
+               <did>
+                  <unittitle>
+                     <emph render="italic">¿Quién eres, tú, mujer?: lírica en alabanza a Jesucristo.</emph> Victor M. Rivas. Guatemala: s.n.</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>22p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0130">
+            <did>
+               <unitid type="itemnumber">File 16</unitid>
+               <unittitle>Religious Study and Education</unittitle>
+               <unitdate normal="1952-01-01/1999-12-31" type="inclusive">1952-1999</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <scopecontent>
+               <p>(see also File 10: Mass, Prayers, and other Rituals)</p>
+            </scopecontent>
+            <c level="file" id="LAE003_c0131">
+               <did>
+                  <unittitle>
+                     <emph render="italic">XXXVI Jornada Mundial de Oración por las Vocaciones, 1999.</emph> s.a. Guatemala: Centro Nacional de Pastoral Vocacional</unittitle>
+                  <unitdate normal="1999/1999">1999</unitdate>
+                  <physdesc>
+                     <extent>72p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0132">
+               <did>
+                  <unittitle>
+                     <emph render="italic">A.B.C. de la temperancia: lecciones sobre las bebidas embriagantes.</emph> Pablo Burgess. Tercera Edición. Quetzaltenango: El Noticiero Evangélico</unittitle>
+                  <unitdate normal="1952/1952">1952</unitdate>
+                  <physdesc>
+                     <extent>67p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0133">
+               <did>
+                  <unittitle altrender="apocalípsis: guía para su estudio en comunidad. Fernando A. Bermúdez López. Guatemala: Arzobispado de Guatemala">
+                     <emph render="italic">El apocalípsis: guía para su estudio en comunidad.</emph> Fernando A. Bermúdez López. Guatemala: Arzobispado de Guatemala</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>55p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0134">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Celebramos la buena noticia de Jesús.</emph> s.a. Quetzaltenango: Arquidiócesis de Quetzaltenango</unittitle>
+                  <unitdate normal="1997/1997">1997</unitdate>
+                  <physdesc>
+                     <extent>98p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Celebraciones de la palabra de Dios, Ciclo B; 2a parte: Cuaresma, Semana Santa, Pascua)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0135">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Cuatro milenios de la educación religiosa: historia de la educación cristiana.</emph> Martha Saint de Berberián. Guatemala: Ediciones SA-BER</unittitle>
+                  <unitdate normal="1986/1986">1986</unitdate>
+                  <physdesc>
+                     <extent>44p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0136">
+               <did>
+                  <unittitle altrender="educación en el magisterio de la Iglesia. s.a. Guatemala: Comisión de Educación de la Conferencia Episcopal de Guatemala">
+                     <emph render="italic">La educación en el magisterio de la Iglesia.</emph> s.a. Guatemala: Comisión de Educación de la Conferencia Episcopal de Guatemala</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>96p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0137">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Escucha la palabra: lectio divino para la liturgia dominical.</emph> s.a. Ciudad Guatemala: Conferencia Episcopal de Guatemala</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>20p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Año Litúrgico "A", Tiempo de Cuaresma)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0138">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Escucha la palabra: lectio divino para la liturgia dominical y festiva.</emph> s.a. Ciudad Guatemala: Conferencia Episcopal de Guatemala</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>24p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Año Litúrgico "B", Solemnidad: la transfiguración del Señor)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0139">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Historia de la salvación: curso bíblico popular.</emph> Flaviano Amatulli Valente. [Guatemala: Apóstoles de la Palabra, ]</unittitle>
+                  <unitdate normal="1992/1992">1992</unitdate>
+                  <physdesc>
+                     <extent>48p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0140">
+               <did>
+                  <unittitle>
+                     <emph render="italic">"Iré y le curaré": manual de pastoral de enfermos.</emph> José María Vigil. Second Edition. s.l.: Editorial Lascasiana</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>65p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0141">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Raíces &gt; nueva cultura: temas para reflexión teológica.</emph> Ricardo Bendaña Perdomo. Guatemala: Universidad Rafael Landívar</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>89p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0142">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Sacramentos como vida y compromiso.</emph> Álvaro Quevedo. Second Edition. Quetzaltenango: Arquidiócesis de Quetzaltenango</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>66p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0143">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Todos hermanos: iniciación cristiana para niños. Para ser trabajada con la familia.</emph> Quetzaltenango: Diócesis de Quetzaltenango</unittitle>
+                  <unitdate normal="1994-01-01/1996-12-31" type="inclusive">1994-1996</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+               <c level="file" id="LAE003_c0144">
+                  <did>
+                     <unittitle>no.1, 6th edition</unittitle>
+                     <unitdate normal="1995/1995">1995</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+               <c level="file" id="LAE003_c0145">
+                  <did>
+                     <unittitle>no.2, 4th edition</unittitle>
+                     <unitdate normal="1994/1994">1994</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+               <c level="file" id="LAE003_c0146">
+                  <did>
+                     <unittitle>no.3, 4th edition</unittitle>
+                     <unitdate normal="1996/1996">1996</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+               <c level="file" id="LAE003_c0147">
+                  <did>
+                     <unittitle>no.4, 4th edition</unittitle>
+                     <unitdate normal="1995/1995">1995</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+               <c level="file" id="LAE003_c0148">
+                  <did>
+                     <unittitle>no.5</unittitle>
+                     <unitdate>undated</unitdate>
+                     <physdesc>
+                        <extent type="computed">1 item</extent> 
+                         
+                      </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file" id="LAE003_c0149">
+               <did>
+                  <unittitle>Publications of <emph render="italic">Escuela Bíblica La Divina Providencia</emph> (arranged by series)</unittitle>
+                  <unitdate>dates not examined</unitdate>
+                  <physdesc>
+                     <extent type="computed">1 item</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0150">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Introducción a la Bíblia.</emph> Santiago García I. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>67p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Bíblica 1)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0151">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Pentateuco y libros históricos.</emph> P. Luis Mariotti. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>74p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Bíblica 2)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0152">
+               <did>
+                  <unittitle altrender="evangelios. P. Salvador Carrillo A. Guatemala: Escuela Bíblica la Divina Providencia">
+                     <emph render="italic">Los evangelios.</emph> P. Salvador Carrillo A. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>94p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Bíblica 3)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0153">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Esposos en el Señor.</emph> G. Luigi Mariotti. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>80p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Evangelizar el matrimonio 2)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0154">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Jesús es el Señor.</emph> P. Luis Mariotti. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>89p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(Theología 1)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0155">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Abbá, Padre.</emph> Luis Mariotti. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1999/1999">1999</unitdate>
+                  <physdesc>
+                     <extent>57p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(no series)</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="LAE003_c0156">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Tú te llamarás roca.</emph> Luis Mariotti. Guatemala: Escuela Bíblica la Divina Providencia</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>67p</extent> 
+                      
+                   </physdesc>
+               </did>
+               <scopecontent>
+                  <p>(no series)</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0157">
+            <did>
+               <unitid type="itemnumber">File 17</unitid>
+               <unittitle>Religious and Biblical Treatises</unittitle>
+               <unitdate normal="1927-01-01/1996-12-31" type="inclusive">1927-1996</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0158">
+               <did>
+                  <unittitle altrender="avivamiento que viene. Delfido Barrera Navas. s.l.: s.n.">
+                     <emph render="italic">El avivamiento que viene.</emph> Delfido Barrera Navas. s.l.: s.n.</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>36p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0159">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Del perdón al amor.</emph> Salvador Gómez. Guatemala City: Editorial Católica Siembra</unittitle>
+                  <unitdate normal="1996/1996">1996</unitdate>
+                  <physdesc>
+                     <extent>95p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0160">
+               <did>
+                  <unittitle altrender="formación de un desafiador. Delfido Barrera Navas. Guatemala City: Departamento de Educación Cristiana de la Escuela de Ministerio “Vida Profunda”">
+                     <emph render="italic">La formación de un desafiador.</emph> Delfido Barrera Navas. Guatemala City: Departamento de Educación Cristiana de la Escuela de Ministerio "Vida Profunda"</unittitle>
+                  <unitdate normal="1992/1992">1992</unitdate>
+                  <physdesc>
+                     <extent>43p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0161">
+               <did>
+                  <unittitle altrender="muerte del temor: el perfecto amor echa fuera el temor. Délfido Barrera Navas. Guatemala: Escuela de Ministerio “Vida Profunda”">
+                     <emph render="italic">La muerte del temor: el perfecto amor echa fuera el temor.</emph> Délfido Barrera Navas. Guatemala: Escuela de Ministerio "Vida Profunda"</unittitle>
+                  <unitdate normal="1995/1995">1995</unitdate>
+                  <physdesc>
+                     <extent>67p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0162">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Predestinados en Cristo eucarístico.</emph> Sebastiano Crestani. s.l.: s.n.</unittitle>
+                  <unitdate normal="1993/1993">1993</unitdate>
+                  <physdesc>
+                     <extent>52p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0163">
+               <did>
+                  <unittitle altrender="proceso del mundo. Tadeo Palacios. Quiché, Guatemala: Casa “La Viña”">
+                     <emph render="italic">El proceso del mundo.</emph> Tadeo Palacios. Quiché, Guatemala: Casa "La Viña"</unittitle>
+                  <unitdate normal="1927/1927">1927</unitdate>
+                  <physdesc>
+                     <extent>49p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0164">
+               <did>
+                  <unittitle altrender="verdad sobre el hombre. s.a. s.l.: Parroquia San Pedro Carcha">
+                     <emph render="italic">La verdad sobre el hombre.</emph> s.a. s.l.: Parroquia San Pedro Carcha</unittitle>
+                  <unitdate normal="1990/1990">1990</unitdate>
+                  <physdesc>
+                     <extent>22p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0165">
+            <did>
+               <unitid type="itemnumber">File 18</unitid>
+               <unittitle>Women</unittitle>
+               <unitdate normal="1952-01-01/1994-12-31" type="inclusive">1952-1994</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0166">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Dios no quiere que las mujeres suframos ningún tipo de violencia.</emph> s.a. Guatemala: Centro Evangélico de Estudios Pastorales en América Central (CEDEPCA)</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>14p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0167">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Memoria de los trabajos de la Asociación de las Señoras de la Caridad de San Vicente de Paul.</emph> s.a. Guatemala City: s.n.</unittitle>
+                  <unitdate normal="1952/1952">1952</unitdate>
+                  <physdesc>
+                     <extent>60p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0168">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Que la mujer no calle en la congregación. Elsa Tamez.</emph> Guatemala City: Programa Pastoral de la Mujer del Centro Evangélico de Estudios Pastorales en América Central (CEDEPCA)</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>12p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="file" id="LAE003_c0169">
+            <did>
+               <unitid type="itemnumber">File 19</unitid>
+               <unittitle>Miscellaneous Publications</unittitle>
+               <unitdate normal="1990-01-01/1994-12-31" type="inclusive">1990-1994</unitdate>
+               <physdesc>
+                  <extent type="computed">1 item</extent> 
+                   
+                </physdesc>
+            </did>
+            <c level="file" id="LAE003_c0170">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Calendario de la Tipografía Sánchez &amp; De Guise para el año 1994.</emph> s.a. s.l.: Tipografía Sánchez y De Guise</unittitle>
+                  <unitdate normal="1994/1994">1994</unitdate>
+                  <physdesc>
+                     <extent>56p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+            <c level="file" id="LAE003_c0171">
+               <did>
+                  <unittitle>
+                     <emph render="italic">¿Qué son las iglesias y sectas protestantes?</emph> Fernando Antonio Bermúdez. Guatemala: Centro de Estudios Ecuménicos Movimiento Apostólico Seglar</unittitle>
+                  <unitdate normal="1990/1990">1990</unitdate>
+                  <physdesc>
+                     <extent>120p</extent> 
+                      
+                   </physdesc>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

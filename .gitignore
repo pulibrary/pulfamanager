@@ -1,0 +1,11 @@
+*.*~
+*~
+*.bak
+conf.yaml
+*.log
+*.pyc
+.pytest_cache/
+.DS_Store
+__pycache__/
+venv/
+

@@ -1,0 +1,42 @@
+# Yaml version of conf.sh.tmpl; used by the python scripts.
+
+# Variables needed by all scripts. Configure these (esp. the first URI and 
+# EAD_HOME and EAC_HOME) to fit the local environment
+
+# The site URI
+# generally 'http://localhost/pulfa' for desktop dev environments and just 
+# the hostname (e.g. http://findingaids.princeton.edu) for servers. Must be 
+# fully qualified! Don't forget "s" if using https.
+pulfa:
+  host: https://findingaids.princeton.edu
+
+timestamp: .pulfa_last_load
+
+data:
+  ead_home: /home/pulfa/data/eads
+  eac_home: /home/pulfa/data/eacs
+  mets_home: /home/pulfa/data/mets
+
+logdir: /var/log/pulfa
+logreaders:
+
+lockfile: /var/log/update_lock
+warnlevel: 300
+
+existdb:
+  base_uri: http://localhost:8080/exist/rest/db/pulfa
+  pulfa_db_user: pulfa
+  pulfa_db_passwd: 
+
+solr:
+  base_uri: http://findingaids.princeton.edu:8983/solr
+  cores: ['pulfa0', 'pulfa1']
+  canonical_field: collection-uri
+
+xslt:
+  enhancer: ead-enhanced.xsl
+  collection: collection2solr.xsl
+  name: name2solr.xsl
+
+dependencies:
+  saxon: /home/pulfa/lib/saxon9he.jar

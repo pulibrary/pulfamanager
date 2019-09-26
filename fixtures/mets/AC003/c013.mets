@@ -1,0 +1,3043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:mix="http://www.loc.gov/mix/v20"
+           xmlns:dct="http://purl.org/dc/terms/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
+           TYPE="DigitalArchivalObject"
+           OBJID="AC003/c013">
+   <mets:metsHdr CREATEDATE="2016-09-02T17:16:34Z">
+      <mets:metsDocumentID>http://findingaids.princeton.edu/folders/AC003/c013.mets</mets:metsDocumentID>
+   </mets:metsHdr>
+   <mets:amdSec ID="rights">
+      <mets:rightsMD ID="w">
+         <mets:mdWrap MDTYPE="DC">
+            <mets:xmlData>
+               <dct:accessRights>WORLD</dct:accessRights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:rightsMD ID="po">
+         <mets:mdWrap MDTYPE="DC">
+            <mets:xmlData>
+               <dct:accessRights>PRINCETON_ONLY</dct:accessRights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+   </mets:amdSec>
+   <mets:amdSec ID="tech">
+      <mets:techMD ID="td1e20">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e42">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e67">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e89">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e114">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e136">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e161">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e183">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e209">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e231">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e256">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e278">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e303">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e325">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e350">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e372">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e397">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e419">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e444">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e466">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e492">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e514">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e539">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e561">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e586">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e608">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e633">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e655">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e680">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e702">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e727">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e749">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e775">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e797">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e822">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e844">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e869">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e891">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e916">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e938">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e963">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e985">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1010">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1032">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1058">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1080">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1105">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1127">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1152">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1174">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1199">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1221">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1246">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1268">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1293">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1315">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1341">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1363">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1388">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1410">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1435">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1457">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1482">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1504">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1529">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1551">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1576">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1598">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1624">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1646">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1671">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1693">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1718">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1740">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1765">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1787">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1812">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1834">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1859">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1881">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1907">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1929">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1954">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e1976">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2001">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2023">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2048">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2070">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2095">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2117">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2142">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2164">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2190">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2212">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2237">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2259">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2284">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2306">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2331">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2353">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2378">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2400">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2425">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2447">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2473">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2495">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2520">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2542">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2567">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2589">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2614">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2636">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2661">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2683">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2708">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2730">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2756">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2778">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2803">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2825">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2850">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2872">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2897">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2919">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2944">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2966">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e2991">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3013">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3039">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3061">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3086">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3108">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3133">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3155">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3180">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3202">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3227">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3249">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3274">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3296">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3322">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3344">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3369">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3391">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>2551</mix:imageWidth>
+               <mix:imageHeight>3300</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3416">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+      <mets:techMD ID="td1e3438">
+         <mets:mdWrap MDTYPE="NISOIMG">
+            <mets:xmlData>
+               <mix:imageWidth>3300</mix:imageWidth>
+               <mix:imageHeight>2551</mix:imageHeight>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:techMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp ID="fgd1e1">
+         <mets:file USE="deliverable"
+                    ID="fd1e3"
+                    CHECKSUM="5d4458cfd1b4da3e43e56b53795b222ab4280f49"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="application/pdf"
+                    SIZE="2331435">
+            <mets:FLocat LOCTYPE="URN" xlink:href="urn:pudl:images:deliverable:AC003/c013.pdf"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e18">
+         <mets:file USE="master"
+                    ID="fd1e20"
+                    CHECKSUM="056714c7a976db70fc4f223c36aafa8d591cdce9"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e20">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000001.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e42"
+                    CHECKSUM="352fae00ea9f933c4f909ccd598a8f56754ba62f"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="781468"
+                    ADMID="td1e42">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000001.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e65">
+         <mets:file USE="master"
+                    ID="fd1e67"
+                    CHECKSUM="69d2cba762cd3a1617c73b6dcb834241a9a1f78d"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e67">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000002.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e89"
+                    CHECKSUM="0606f8871b91e29b5dae03142127c3d1b4b161cf"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="486992"
+                    ADMID="td1e89">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000002.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e112">
+         <mets:file USE="master"
+                    ID="fd1e114"
+                    CHECKSUM="07fe646fab07072102a50a93ad68c6a98f69c9b9"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e114">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000003.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e136"
+                    CHECKSUM="3fd8b000e6fd808c1ff87c2b9fef08c7d154b8e5"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="849082"
+                    ADMID="td1e136">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000003.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e159">
+         <mets:file USE="master"
+                    ID="fd1e161"
+                    CHECKSUM="f7635ded66ed5f3034bca059ad3219f433759b19"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e161">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000004.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e183"
+                    CHECKSUM="fef5ef0af3c200856121b9581115589445e15041"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="586688"
+                    ADMID="td1e183">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000004.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e207">
+         <mets:file USE="master"
+                    ID="fd1e209"
+                    CHECKSUM="36a95eba1613bd3c6b485070cd2ab15f6edb7305"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e209">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000005.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e231"
+                    CHECKSUM="e6c681830afdf62d2c844205c2ab8b199c6aaa03"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="809409"
+                    ADMID="td1e231">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000005.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e254">
+         <mets:file USE="master"
+                    ID="fd1e256"
+                    CHECKSUM="0bbb7e5f63c403a1803e749e32ca60760a3ac911"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e256">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000006.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e278"
+                    CHECKSUM="30295f8c61becac357c111fb656087188cdea6bc"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="937185"
+                    ADMID="td1e278">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000006.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e301">
+         <mets:file USE="master"
+                    ID="fd1e303"
+                    CHECKSUM="9d53d49ac6e7781e94e9b05633913eeb1a4cdd12"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e303">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000007.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e325"
+                    CHECKSUM="e9a2dac53b88d5bec6c40a51fc623cfdc0e25b21"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1004221"
+                    ADMID="td1e325">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000007.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e348">
+         <mets:file USE="master"
+                    ID="fd1e350"
+                    CHECKSUM="9f20a7dd6833630fc0363cc1b7c422cad2a520df"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e350">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000008.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e372"
+                    CHECKSUM="51e3eacf884def126a3f1aa2e35eee71ffc0d519"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="815152"
+                    ADMID="td1e372">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000008.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e395">
+         <mets:file USE="master"
+                    ID="fd1e397"
+                    CHECKSUM="930332fdbc46448f607d8e49b88ef28a2b293d19"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e397">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000009.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e419"
+                    CHECKSUM="42fa75014d6eec1549694756af07c7c1fe1c4bd3"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="225503"
+                    ADMID="td1e419">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000009.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e442">
+         <mets:file USE="master"
+                    ID="fd1e444"
+                    CHECKSUM="c76031464db60b8af4e13b481f888ad025db6237"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e444">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000010.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e466"
+                    CHECKSUM="be3c2aa10e1b4b17c4d6502d7480971ebe4b7b65"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="578570"
+                    ADMID="td1e466">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000010.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e490">
+         <mets:file USE="master"
+                    ID="fd1e492"
+                    CHECKSUM="e02a7fe335a43db18c8dd842261df4e6e001e3ba"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e492">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000011.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e514"
+                    CHECKSUM="3b05f9cbb92ed01c40942eb0c5612fb3e0b22087"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1116988"
+                    ADMID="td1e514">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000011.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e537">
+         <mets:file USE="master"
+                    ID="fd1e539"
+                    CHECKSUM="119fa2923a16d276cdb0f7ba954bbb2cf36cfb95"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e539">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000012.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e561"
+                    CHECKSUM="58373a44a64a718f2bd51e283e90e06e73c21cdc"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="405010"
+                    ADMID="td1e561">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000012.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e584">
+         <mets:file USE="master"
+                    ID="fd1e586"
+                    CHECKSUM="67ec4a3eaf938b96c7f310b60cb186c255f3db8e"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e586">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000013.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e608"
+                    CHECKSUM="b0119793b7000a34fc484f6e371cf2339e710dda"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1197134"
+                    ADMID="td1e608">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000013.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e631">
+         <mets:file USE="master"
+                    ID="fd1e633"
+                    CHECKSUM="458ab892798e2a58091e84b81024e9df5b45a1ac"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e633">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000014.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e655"
+                    CHECKSUM="77522c8393c3a63fe91ca34a1aec615a44dfc695"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1004081"
+                    ADMID="td1e655">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000014.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e678">
+         <mets:file USE="master"
+                    ID="fd1e680"
+                    CHECKSUM="3019825b321bec1d644da4b2822f88f0e5c1d073"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e680">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000015.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e702"
+                    CHECKSUM="c03980e418c1c995828ac5f34f06510a6e3aacdd"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="550456"
+                    ADMID="td1e702">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000015.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e725">
+         <mets:file USE="master"
+                    ID="fd1e727"
+                    CHECKSUM="d1e4f9cdb00a77abf58b824bfda4df427482a88f"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e727">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000016.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e749"
+                    CHECKSUM="38c0ed97b94323ac19f0da4216199c314851b0e5"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="489285"
+                    ADMID="td1e749">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000016.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e773">
+         <mets:file USE="master"
+                    ID="fd1e775"
+                    CHECKSUM="419bf2e052dddf0e259ead2ea93822cbeddaac26"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e775">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000017.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e797"
+                    CHECKSUM="507d856d2426bddf267f27dc17294f10689d12e9"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="894032"
+                    ADMID="td1e797">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000017.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e820">
+         <mets:file USE="master"
+                    ID="fd1e822"
+                    CHECKSUM="d98e2ceaac88d48cbf820d4be9bf9ef4c98bddf4"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e822">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000018.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e844"
+                    CHECKSUM="9bdd012c6ff200ee241fa029d42aa5330792d0bc"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="358923"
+                    ADMID="td1e844">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000018.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e867">
+         <mets:file USE="master"
+                    ID="fd1e869"
+                    CHECKSUM="6e07a3c11fbbfffd242ee44dd94b0f554445fd01"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e869">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000019.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e891"
+                    CHECKSUM="d04a0c21e5ebb3c6352497c639f63a042c0d5842"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="457314"
+                    ADMID="td1e891">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000019.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e914">
+         <mets:file USE="master"
+                    ID="fd1e916"
+                    CHECKSUM="11b76d8cf4b7e59b470ef05463da485395235fc8"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e916">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000020.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e938"
+                    CHECKSUM="93be615fac857ffef45d8ec759c8199a7cd220d0"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="686812"
+                    ADMID="td1e938">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000020.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e961">
+         <mets:file USE="master"
+                    ID="fd1e963"
+                    CHECKSUM="16032814b76041fb35bcfb6c6671d532202eb82c"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e963">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000021.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e985"
+                    CHECKSUM="032cbeeb53caf92c726a7e3149c61a3bc1ffbe20"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="341377"
+                    ADMID="td1e985">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000021.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1008">
+         <mets:file USE="master"
+                    ID="fd1e1010"
+                    CHECKSUM="596a16a547574da6f1948216bdfab3189c1da393"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1010">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000022.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1032"
+                    CHECKSUM="f873445f48d9014acb4d0a3f97e0fadfa1bb18e0"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="728777"
+                    ADMID="td1e1032">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000022.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1056">
+         <mets:file USE="master"
+                    ID="fd1e1058"
+                    CHECKSUM="fc333872e633fd54c66bd6549be9a429e9c88f96"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1058">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000023.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1080"
+                    CHECKSUM="348ee14ce4287805688346048821af857add8e04"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="696956"
+                    ADMID="td1e1080">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000023.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1103">
+         <mets:file USE="master"
+                    ID="fd1e1105"
+                    CHECKSUM="5a9b80e6ae35a185758ad73df1e8f6628ddee3db"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1105">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000024.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1127"
+                    CHECKSUM="0fea9e45634403a3f61fc848f623bd84aa21d04c"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="906910"
+                    ADMID="td1e1127">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000024.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1150">
+         <mets:file USE="master"
+                    ID="fd1e1152"
+                    CHECKSUM="9d63b3d555a201df56cba1d4ae8f793676b741a3"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1152">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000025.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1174"
+                    CHECKSUM="719cc330fcd8b7ce0879444e310f7ff22685a2fb"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="565373"
+                    ADMID="td1e1174">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000025.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1197">
+         <mets:file USE="master"
+                    ID="fd1e1199"
+                    CHECKSUM="e37f2722b5006c78a4f35c4ffb3097d68d8435df"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1199">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000026.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1221"
+                    CHECKSUM="828cd15d975291024071ba4370ca0bf812f28707"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="427971"
+                    ADMID="td1e1221">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000026.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1244">
+         <mets:file USE="master"
+                    ID="fd1e1246"
+                    CHECKSUM="4badcc8baadb9329b7675a20ab65614848bbde56"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1246">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000027.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1268"
+                    CHECKSUM="643bf9a520f242375557ee193132860d0105ad6b"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="438484"
+                    ADMID="td1e1268">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000027.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1291">
+         <mets:file USE="master"
+                    ID="fd1e1293"
+                    CHECKSUM="bad8337ce908d43ef6736b4743d5e72ca2c234ea"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1293">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000028.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1315"
+                    CHECKSUM="c303f4764d52715cce7f6056255ba5556c419471"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1089412"
+                    ADMID="td1e1315">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000028.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1339">
+         <mets:file USE="master"
+                    ID="fd1e1341"
+                    CHECKSUM="c3aaa8fdda4c448a45d0ae375fc157674325a69e"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1341">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000029.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1363"
+                    CHECKSUM="9953ee774dc1aa8baeb9eab03f547f5bb132c20a"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="269271"
+                    ADMID="td1e1363">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000029.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1386">
+         <mets:file USE="master"
+                    ID="fd1e1388"
+                    CHECKSUM="9e932c1602b88149722510d8ab7b66c54c353578"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1388">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000030.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1410"
+                    CHECKSUM="9e3a96f775eeb9a8bf924d188ebeef8db86767cf"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="984855"
+                    ADMID="td1e1410">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000030.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1433">
+         <mets:file USE="master"
+                    ID="fd1e1435"
+                    CHECKSUM="60a0c0858fa5743800d2fb10a6710450a5803336"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1435">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000031.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1457"
+                    CHECKSUM="e2fc769dcab70a59c5689f5cb16d0ae1ad5c02e3"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="497151"
+                    ADMID="td1e1457">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000031.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1480">
+         <mets:file USE="master"
+                    ID="fd1e1482"
+                    CHECKSUM="b83d8c39344ecae51d0292c9f96d88395a8ebf69"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1482">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000032.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1504"
+                    CHECKSUM="d405cf445e9a3acf69c205a0f7fcdea04a7ac402"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="966608"
+                    ADMID="td1e1504">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000032.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1527">
+         <mets:file USE="master"
+                    ID="fd1e1529"
+                    CHECKSUM="e8849fb2d28597b75bdcec631d8f0eea5d096dc7"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1529">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000033.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1551"
+                    CHECKSUM="6505754fc3f9e145715e55932dc9976d33f9e283"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="957689"
+                    ADMID="td1e1551">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000033.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1574">
+         <mets:file USE="master"
+                    ID="fd1e1576"
+                    CHECKSUM="611fe0415542a6998003cc76e6b44f11fc65bde2"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1576">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000034.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1598"
+                    CHECKSUM="a02bddbd45525c88aba3aef4f4f197fffaea3b5f"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="808319"
+                    ADMID="td1e1598">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000034.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1622">
+         <mets:file USE="master"
+                    ID="fd1e1624"
+                    CHECKSUM="2da500b33641ade5ba14643895a8bc2f30aa930b"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1624">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000035.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1646"
+                    CHECKSUM="061478b1dfea934a7c24013d082398330bb395cd"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="987906"
+                    ADMID="td1e1646">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000035.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1669">
+         <mets:file USE="master"
+                    ID="fd1e1671"
+                    CHECKSUM="2357265240137809dfea8cbb67f2cf738fdcd5bf"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1671">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000036.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1693"
+                    CHECKSUM="3c33659007f1726e9b17c900e54078890a2093b5"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="231292"
+                    ADMID="td1e1693">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000036.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1716">
+         <mets:file USE="master"
+                    ID="fd1e1718"
+                    CHECKSUM="8c4be656b8550f959c11bef565be2e784f3a1b04"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1718">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000037.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1740"
+                    CHECKSUM="9a2e8240d4cfaf6824fab37d833bc02fc0b7c986"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="687437"
+                    ADMID="td1e1740">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000037.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1763">
+         <mets:file USE="master"
+                    ID="fd1e1765"
+                    CHECKSUM="4abc3744c5bff5a756aa72cb80436ef4d800aae9"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1765">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000038.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1787"
+                    CHECKSUM="5371de94aefdbf74fe211f589fbfe4c665996b99"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287235"
+                    ADMID="td1e1787">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000038.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1810">
+         <mets:file USE="master"
+                    ID="fd1e1812"
+                    CHECKSUM="358caee915d093096fbdcbf5515d54b7e1def5d0"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1812">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000039.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1834"
+                    CHECKSUM="d44437c3cf334ef9ed06ef86bcd04f2b53ab468e"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287255"
+                    ADMID="td1e1834">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000039.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1857">
+         <mets:file USE="master"
+                    ID="fd1e1859"
+                    CHECKSUM="045e2cd3ce32ad7ce65aed7b428fe61a65da8bc5"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1859">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000040.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1881"
+                    CHECKSUM="723e2c1d48501bb7fda5bb5d37501cfe5825a88f"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287216"
+                    ADMID="td1e1881">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000040.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1905">
+         <mets:file USE="master"
+                    ID="fd1e1907"
+                    CHECKSUM="e4c5f237f41fad8f27051a26b3bd3ae041079661"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1907">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000041.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1929"
+                    CHECKSUM="68b54173eff80eda2d4807c546766a4eaa35c360"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287283"
+                    ADMID="td1e1929">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000041.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1952">
+         <mets:file USE="master"
+                    ID="fd1e1954"
+                    CHECKSUM="d97b0ba40acecf54c971bf293f697b0ca97d1041"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e1954">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000042.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e1976"
+                    CHECKSUM="aa72f00b73a9c88480069af0bc117a494bcd24ce"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287311"
+                    ADMID="td1e1976">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000042.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e1999">
+         <mets:file USE="master"
+                    ID="fd1e2001"
+                    CHECKSUM="bf594787e425fdde392b42997582f38559bab929"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2001">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000043.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2023"
+                    CHECKSUM="f802b091407c475975432fb79f2b362bbfe435c8"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1281425"
+                    ADMID="td1e2023">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000043.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2046">
+         <mets:file USE="master"
+                    ID="fd1e2048"
+                    CHECKSUM="83063bb994bbd304b5d4b50a04ff492a271214fc"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2048">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000044.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2070"
+                    CHECKSUM="2256e61dfad9fcd2d084226efa7372ff3edfd8df"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1125591"
+                    ADMID="td1e2070">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000044.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2093">
+         <mets:file USE="master"
+                    ID="fd1e2095"
+                    CHECKSUM="1817c80d3772b2f684faff420561473a491c9fab"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2095">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000045.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2117"
+                    CHECKSUM="c9a2deb95926030526a9fa157e0fd848980ebc70"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="664755"
+                    ADMID="td1e2117">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000045.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2140">
+         <mets:file USE="master"
+                    ID="fd1e2142"
+                    CHECKSUM="5d114e86efa70fa827177d6f982ef6a6d89e53b3"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e2142">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000046.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2164"
+                    CHECKSUM="225d79af0b00e7accb2e690b8b1b000983fd09f1"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1028421"
+                    ADMID="td1e2164">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000046.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2188">
+         <mets:file USE="master"
+                    ID="fd1e2190"
+                    CHECKSUM="2e7f30069cf89ce51de8c39be9f72f103b6e3b05"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e2190">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000047.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2212"
+                    CHECKSUM="503602a8afc6ef5cb0958ddf3ff62ec66ce21342"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1230668"
+                    ADMID="td1e2212">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000047.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2235">
+         <mets:file USE="master"
+                    ID="fd1e2237"
+                    CHECKSUM="187ea23652f13f777adf8c3998b846184ff6d813"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e2237">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000048.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2259"
+                    CHECKSUM="2f0750e078e3ce72b4b8d1c7b3caf694dc305184"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287217"
+                    ADMID="td1e2259">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000048.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2282">
+         <mets:file USE="master"
+                    ID="fd1e2284"
+                    CHECKSUM="c8f1fb551f0553f65c1796f0e534a46bdcf7b6d4"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2284">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000049.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2306"
+                    CHECKSUM="dc51b873e89e8597b27e1eae8274c88654f9d2bb"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287268"
+                    ADMID="td1e2306">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000049.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2329">
+         <mets:file USE="master"
+                    ID="fd1e2331"
+                    CHECKSUM="9dddc397d6aca23555edb2256c9a78213a7052b9"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2331">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000050.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2353"
+                    CHECKSUM="7c45d72f6b259921a60364d4e23a583b641b250f"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1266937"
+                    ADMID="td1e2353">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000050.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2376">
+         <mets:file USE="master"
+                    ID="fd1e2378"
+                    CHECKSUM="13f5ccaf748bb8d10236c3ad7fb1aea5b3251ca5"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e2378">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000051.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2400"
+                    CHECKSUM="75835deb6666a54a0f8ca6de2f897bd9e892fc78"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1256411"
+                    ADMID="td1e2400">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000051.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2423">
+         <mets:file USE="master"
+                    ID="fd1e2425"
+                    CHECKSUM="2770ae45802ec9d8a266da29e7eb33e44838f6c8"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e2425">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000052.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2447"
+                    CHECKSUM="1422b2ca1b73c71cd7b9e4e875221d1468f030e6"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="406513"
+                    ADMID="td1e2447">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000052.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2471">
+         <mets:file USE="master"
+                    ID="fd1e2473"
+                    CHECKSUM="7a51dc700684b9015f90c29b33f474f773ddf4c3"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2473">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000053.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2495"
+                    CHECKSUM="47cf22c4c90f494880e642fcaf9cdcad246e3b18"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1231245"
+                    ADMID="td1e2495">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000053.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2518">
+         <mets:file USE="master"
+                    ID="fd1e2520"
+                    CHECKSUM="373045172cc7426e44efcbdf67c0289794f79aa2"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2520">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000054.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2542"
+                    CHECKSUM="85fe685451f67a0bebdbaa7fe08ecbc6d0076cd4"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1186792"
+                    ADMID="td1e2542">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000054.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2565">
+         <mets:file USE="master"
+                    ID="fd1e2567"
+                    CHECKSUM="31d1b6ec2f2874efd7b11eb78d24c08b013e293c"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2567">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000055.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2589"
+                    CHECKSUM="153a569208e383025317ca1f35e50f15d5927320"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="652923"
+                    ADMID="td1e2589">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000055.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2612">
+         <mets:file USE="master"
+                    ID="fd1e2614"
+                    CHECKSUM="78632a7d4ef8dfc29451aeb4bfda1d48bc4d4eb9"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2614">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000056.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2636"
+                    CHECKSUM="7c74266967fa09e59ce2f441aea8ff3fd720fdd1"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="499418"
+                    ADMID="td1e2636">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000056.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2659">
+         <mets:file USE="master"
+                    ID="fd1e2661"
+                    CHECKSUM="412d26b3d7ea65f0e4254067bcfd9c30fa7d1213"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2661">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000057.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2683"
+                    CHECKSUM="ca98aeb1e81f36340a2150865033c104a0beeaa1"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="829377"
+                    ADMID="td1e2683">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000057.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2706">
+         <mets:file USE="master"
+                    ID="fd1e2708"
+                    CHECKSUM="9943746b8368acd6b17fd18a738781bb240ebc39"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2708">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000058.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2730"
+                    CHECKSUM="28bac276a55dcaeae07c95684bfd9216c00366bb"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="865249"
+                    ADMID="td1e2730">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000058.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2754">
+         <mets:file USE="master"
+                    ID="fd1e2756"
+                    CHECKSUM="b9377799f01e38f29af981c62ff4d08f5b120ae4"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2756">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000059.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2778"
+                    CHECKSUM="dd39f0b034d0deefbf156fc0cb8976d20b8399f6"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="856547"
+                    ADMID="td1e2778">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000059.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2801">
+         <mets:file USE="master"
+                    ID="fd1e2803"
+                    CHECKSUM="e5a18329f8f69e1c9911332f587fa4f4cc8fcba3"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e2803">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000060.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2825"
+                    CHECKSUM="ff7d7b19add7f5dec4223f3c95b7256b0e894b55"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="942804"
+                    ADMID="td1e2825">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000060.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2848">
+         <mets:file USE="master"
+                    ID="fd1e2850"
+                    CHECKSUM="3a89e8689f63f9c32fdadf297b4a42d9b5d13bc4"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2850">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000061.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2872"
+                    CHECKSUM="f6273aff4c3d50f1d681e92c6db3c56a281f08e8"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="687536"
+                    ADMID="td1e2872">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000061.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2895">
+         <mets:file USE="master"
+                    ID="fd1e2897"
+                    CHECKSUM="5e8aabd17fdca2bfbc9d8836e2cd506db62a6a05"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2897">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000062.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2919"
+                    CHECKSUM="15cd7e776fd50fbb9f0b000e1824e10e094e60d1"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="782712"
+                    ADMID="td1e2919">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000062.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2942">
+         <mets:file USE="master"
+                    ID="fd1e2944"
+                    CHECKSUM="e55792728f7076166bdea2ae4711fce7f369e252"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2944">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000063.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e2966"
+                    CHECKSUM="ba8d67cdb6aee40c3c9cba1db39d2ea4beefdcff"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="480590"
+                    ADMID="td1e2966">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000063.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e2989">
+         <mets:file USE="master"
+                    ID="fd1e2991"
+                    CHECKSUM="81ee7125fae4054bd237362ebb7f24bba3ef6398"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e2991">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000064.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3013"
+                    CHECKSUM="6c8ee2bdcb5a403376544f9157b9dc41d1562339"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="348169"
+                    ADMID="td1e3013">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000064.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3037">
+         <mets:file USE="master"
+                    ID="fd1e3039"
+                    CHECKSUM="3f7caebd37f9c76549efcb5b333ee267826cd21a"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3039">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000065.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3061"
+                    CHECKSUM="0bfede92bd4a6519f8a8df198c4bb853fda8b35d"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1235856"
+                    ADMID="td1e3061">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000065.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3084">
+         <mets:file USE="master"
+                    ID="fd1e3086"
+                    CHECKSUM="f7a1eb63924dd13894bb004cc65229f290fbf033"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3086">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000066.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3108"
+                    CHECKSUM="8c04b8f22cfd691079bebd55251c81eeacbba06a"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="468693"
+                    ADMID="td1e3108">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000066.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3131">
+         <mets:file USE="master"
+                    ID="fd1e3133"
+                    CHECKSUM="70c31b18aad85f2082582af52c19ff0eaf93155a"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3133">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000067.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3155"
+                    CHECKSUM="abfd0918a6a0045b67f10804c36547e4ed27c645"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1016125"
+                    ADMID="td1e3155">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000067.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3178">
+         <mets:file USE="master"
+                    ID="fd1e3180"
+                    CHECKSUM="7ff76b52d4a520d26fe22fd3f0d4fd584220cd93"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3180">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000068.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3202"
+                    CHECKSUM="e1c645b3be861173649ac4573fc8d89cb18aa12d"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="628613"
+                    ADMID="td1e3202">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000068.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3225">
+         <mets:file USE="master"
+                    ID="fd1e3227"
+                    CHECKSUM="b0239c0832e7ae6fe2bbf9f205a60e849d70329b"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e3227">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000069.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3249"
+                    CHECKSUM="bcd510159fdff7c4f55adc409b49549426a5c4be"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1239483"
+                    ADMID="td1e3249">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000069.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3272">
+         <mets:file USE="master"
+                    ID="fd1e3274"
+                    CHECKSUM="d50cb660c548920a2ea94514a370dfea17bfb935"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3274">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000070.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3296"
+                    CHECKSUM="8876830cd7a61cdb5b7478eeb90f0e0dffd566ba"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287159"
+                    ADMID="td1e3296">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000070.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3320">
+         <mets:file USE="master"
+                    ID="fd1e3322"
+                    CHECKSUM="ed804151bf18b92c6d6180b2b0d00731cf86d135"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3322">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000071.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3344"
+                    CHECKSUM="430aa224ea002f4493aa72993a814427737c0089"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287183"
+                    ADMID="td1e3344">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000071.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3367">
+         <mets:file USE="master"
+                    ID="fd1e3369"
+                    CHECKSUM="1c37ac8e72cab2e6c4d8c987fcd088dc8e140103"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8430989"
+                    ADMID="td1e3369">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000072.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3391"
+                    CHECKSUM="efb62e8ad34c10398880789f6cf8bdc5e354a316"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1287139"
+                    ADMID="td1e3391">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000072.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp ID="fgd1e3414">
+         <mets:file USE="master"
+                    ID="fd1e3416"
+                    CHECKSUM="5806901cc11eec4975cb969c8cb5ab469c4d8d57"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/tiff"
+                    SIZE="8432397"
+                    ADMID="td1e3416">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:master:AC003/c013/00000073.tif"/>
+         </mets:file>
+         <mets:file USE="deliverable"
+                    ID="fd1e3438"
+                    CHECKSUM="c987f46eb880fe750b69a926296925b69e860e0c"
+                    CHECKSUMTYPE="SHA-1"
+                    MIMETYPE="image/jp2"
+                    SIZE="1100381"
+                    ADMID="td1e3438">
+            <mets:FLocat LOCTYPE="URN"
+                         xlink:href="urn:pudl:images:deliverable:AC003/c013/00000073.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap>
+      <mets:div LABEL="Grounds and Buildings Committee business, 1906-1907"
+                TYPE="Folder"
+                ADMID="w">
+         <mets:fptr FILEID="fgd1e1"/>
+         <mets:div LABEL="[1]" ORDER="1" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e18"/>
+         </mets:div>
+         <mets:div LABEL="[2]" ORDER="2" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e65"/>
+         </mets:div>
+         <mets:div LABEL="[3]" ORDER="3" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e112"/>
+         </mets:div>
+         <mets:div LABEL="[4]" ORDER="4" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e159"/>
+         </mets:div>
+         <mets:div LABEL="[5]" ORDER="5" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e207"/>
+         </mets:div>
+         <mets:div LABEL="[6]" ORDER="6" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e254"/>
+         </mets:div>
+         <mets:div LABEL="[7]" ORDER="7" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e301"/>
+         </mets:div>
+         <mets:div LABEL="[8]" ORDER="8" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e348"/>
+         </mets:div>
+         <mets:div LABEL="[9]" ORDER="9" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e395"/>
+         </mets:div>
+         <mets:div LABEL="[10]" ORDER="10" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e442"/>
+         </mets:div>
+         <mets:div LABEL="[11]" ORDER="11" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e490"/>
+         </mets:div>
+         <mets:div LABEL="[12]" ORDER="12" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e537"/>
+         </mets:div>
+         <mets:div LABEL="[13]" ORDER="13" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e584"/>
+         </mets:div>
+         <mets:div LABEL="[14]" ORDER="14" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e631"/>
+         </mets:div>
+         <mets:div LABEL="[15]" ORDER="15" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e678"/>
+         </mets:div>
+         <mets:div LABEL="[16]" ORDER="16" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e725"/>
+         </mets:div>
+         <mets:div LABEL="[17]" ORDER="17" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e773"/>
+         </mets:div>
+         <mets:div LABEL="[18]" ORDER="18" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e820"/>
+         </mets:div>
+         <mets:div LABEL="[19]" ORDER="19" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e867"/>
+         </mets:div>
+         <mets:div LABEL="[20]" ORDER="20" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e914"/>
+         </mets:div>
+         <mets:div LABEL="[21]" ORDER="21" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e961"/>
+         </mets:div>
+         <mets:div LABEL="[22]" ORDER="22" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1008"/>
+         </mets:div>
+         <mets:div LABEL="[23]" ORDER="23" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1056"/>
+         </mets:div>
+         <mets:div LABEL="[24]" ORDER="24" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1103"/>
+         </mets:div>
+         <mets:div LABEL="[25]" ORDER="25" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1150"/>
+         </mets:div>
+         <mets:div LABEL="[26]" ORDER="26" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1197"/>
+         </mets:div>
+         <mets:div LABEL="[27]" ORDER="27" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1244"/>
+         </mets:div>
+         <mets:div LABEL="[28]" ORDER="28" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1291"/>
+         </mets:div>
+         <mets:div LABEL="[29]" ORDER="29" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1339"/>
+         </mets:div>
+         <mets:div LABEL="[30]" ORDER="30" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1386"/>
+         </mets:div>
+         <mets:div LABEL="[31]" ORDER="31" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1433"/>
+         </mets:div>
+         <mets:div LABEL="[32]" ORDER="32" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1480"/>
+         </mets:div>
+         <mets:div LABEL="[33]" ORDER="33" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1527"/>
+         </mets:div>
+         <mets:div LABEL="[34]" ORDER="34" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1574"/>
+         </mets:div>
+         <mets:div LABEL="[35]" ORDER="35" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1622"/>
+         </mets:div>
+         <mets:div LABEL="[36]" ORDER="36" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1669"/>
+         </mets:div>
+         <mets:div LABEL="[37]" ORDER="37" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1716"/>
+         </mets:div>
+         <mets:div LABEL="[38]" ORDER="38" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1763"/>
+         </mets:div>
+         <mets:div LABEL="[39]" ORDER="39" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1810"/>
+         </mets:div>
+         <mets:div LABEL="[40]" ORDER="40" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1857"/>
+         </mets:div>
+         <mets:div LABEL="[41]" ORDER="41" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1905"/>
+         </mets:div>
+         <mets:div LABEL="[42]" ORDER="42" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1952"/>
+         </mets:div>
+         <mets:div LABEL="[43]" ORDER="43" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e1999"/>
+         </mets:div>
+         <mets:div LABEL="[44]" ORDER="44" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2046"/>
+         </mets:div>
+         <mets:div LABEL="[45]" ORDER="45" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2093"/>
+         </mets:div>
+         <mets:div LABEL="[46]" ORDER="46" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2140"/>
+         </mets:div>
+         <mets:div LABEL="[47]" ORDER="47" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2188"/>
+         </mets:div>
+         <mets:div LABEL="[48]" ORDER="48" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2235"/>
+         </mets:div>
+         <mets:div LABEL="[49]" ORDER="49" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2282"/>
+         </mets:div>
+         <mets:div LABEL="[50]" ORDER="50" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2329"/>
+         </mets:div>
+         <mets:div LABEL="[51]" ORDER="51" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2376"/>
+         </mets:div>
+         <mets:div LABEL="[52]" ORDER="52" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2423"/>
+         </mets:div>
+         <mets:div LABEL="[53]" ORDER="53" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2471"/>
+         </mets:div>
+         <mets:div LABEL="[54]" ORDER="54" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2518"/>
+         </mets:div>
+         <mets:div LABEL="[55]" ORDER="55" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2565"/>
+         </mets:div>
+         <mets:div LABEL="[56]" ORDER="56" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2612"/>
+         </mets:div>
+         <mets:div LABEL="[57]" ORDER="57" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2659"/>
+         </mets:div>
+         <mets:div LABEL="[58]" ORDER="58" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2706"/>
+         </mets:div>
+         <mets:div LABEL="[59]" ORDER="59" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2754"/>
+         </mets:div>
+         <mets:div LABEL="[60]" ORDER="60" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2801"/>
+         </mets:div>
+         <mets:div LABEL="[61]" ORDER="61" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2848"/>
+         </mets:div>
+         <mets:div LABEL="[62]" ORDER="62" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2895"/>
+         </mets:div>
+         <mets:div LABEL="[63]" ORDER="63" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2942"/>
+         </mets:div>
+         <mets:div LABEL="[64]" ORDER="64" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e2989"/>
+         </mets:div>
+         <mets:div LABEL="[65]" ORDER="65" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3037"/>
+         </mets:div>
+         <mets:div LABEL="[66]" ORDER="66" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3084"/>
+         </mets:div>
+         <mets:div LABEL="[67]" ORDER="67" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3131"/>
+         </mets:div>
+         <mets:div LABEL="[68]" ORDER="68" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3178"/>
+         </mets:div>
+         <mets:div LABEL="[69]" ORDER="69" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3225"/>
+         </mets:div>
+         <mets:div LABEL="[70]" ORDER="70" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3272"/>
+         </mets:div>
+         <mets:div LABEL="[71]" ORDER="71" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3320"/>
+         </mets:div>
+         <mets:div LABEL="[72]" ORDER="72" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3367"/>
+         </mets:div>
+         <mets:div LABEL="[73]" ORDER="73" TYPE="FolderMember">
+            <mets:fptr FILEID="fgd1e3414"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+</mets:mets>
