@@ -5,4 +5,4 @@ pyaml==17.8.0
 pysolr==3.6.0
 PyYAML
 requests==2.18.4
-urllib3==1.22
+urllib3==1.24.2
