@@ -57,8 +57,10 @@ class Loader:
         return status
 
     def should_process_file(self, root, fname, load_all=False):
+        logging.info("load_all is {}.".format(load_all))
         status = (self.is_right_kind(fname) and
-                  (self.file_outdated(root, fname) or load_all))
+                  (load_all or (self.file_outdated(root, fname))))
+        logging.info("returning status {}".format(status))
         return status
 
     def effort_estimate(self):
