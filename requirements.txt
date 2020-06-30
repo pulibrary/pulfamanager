@@ -2,7 +2,7 @@ certifi
 chardet
 idna
 pyaml
-pysolr
+pysolr==3.6.0
 PyYAML
 requests
 urllib3
