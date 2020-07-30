@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet exclude-result-prefixes="#all" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" xmlns:ead="urn:isbn:1-931666-22-9"
-   xmlns:eac="urn:isbn:1-931666-33-4" xmlns:local="local.uri" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pulfa="http://library.princeton.edu/pulfa"
-   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lib="http://findingaids.princeton.edu/pulfa/2/lib" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<xsl:stylesheet exclude-result-prefixes="#all"
+   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" 
+   xmlns:ead="urn:isbn:1-931666-22-9"
+   xmlns:eac="urn:isbn:1-931666-33-4" 
+   xmlns:local="local.uri" 
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+   xmlns:pulfa="http://library.princeton.edu/pulfa"
+   xmlns:xlink="http://www.w3.org/1999/xlink" 
+   xmlns:lib="http://findingaids.princeton.edu/pulfa/2/lib" 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-   <xsl:import href="lib.xsl"/>
 
    <xsl:param name="base-uri" as="xs:string" select="'http://findingaids.princeton.edu'"/>
 
    <xsl:output indent="yes" method="xml"/>
 
-   <!-- <xsl:include href="lib.xsl"/> -->
+   <xsl:function name="local:format-eac-name" as="xs:string">
+      <xsl:param name="nameEntry" as="element()"/>
+      <xsl:variable name="value">
+         <xsl:value-of>
+            <xsl:value-of select="$nameEntry/eac:part"/>
+            <xsl:choose>
+               <xsl:when test="$nameEntry/ancestor::eac:identity/following-sibling::eac:description/eac:existDates/eac:dateRange">
+                  <xsl:text>, </xsl:text>
+                  <xsl:apply-templates select="$nameEntry/../following-sibling::eac:description/eac:existDates/eac:dateRange" mode="string"/>
+               </xsl:when>
+               <xsl:when test="$nameEntry/ancestor::eac:identity/following-sibling::eac:description/eac:existDates/eac:date">
+                  <xsl:text>, </xsl:text>
+                  <xsl:apply-templates select="$nameEntry/ancestor::eac:identity/following-sibling::eac:description/eac:existDates/eac:date" mode="string"/>
+               </xsl:when>
+               <!--+
+                   | No support for dateSet wrt names yet..not sure how it would be used.
+                   | http://www3.iath.virginia.edu/eac/cpf/tagLibrary/cpfTagLibrary.html#d1e2484
+                   +-->
+            </xsl:choose>
+         </xsl:value-of>
+      </xsl:variable>
+      <xsl:choose>
+         <!-- no trailing stop if we end with punctuation -->
+         <xsl:when test="matches($value, '\p{P}$')">
+            <xsl:value-of select="normalize-space($value)"/>
+         </xsl:when>
+         <xsl:otherwise>
+            <xsl:value-of select="concat(normalize-space($value), '.')"/>
+         </xsl:otherwise>
+      </xsl:choose>
+   </xsl:function>
 
    <!-- TODO: dates -->
 
@@ -49,10 +85,10 @@
       <field name="pref-eac-name-entry">
          <xsl:choose>
             <xsl:when test="exists(eac:nameEntry[eac:authorizedForm])">
-               <xsl:value-of select="lib:format-eac-name(eac:nameEntry[eac:authorizedForm][1])"/>
+               <xsl:value-of select="local:format-eac-name(eac:nameEntry[eac:authorizedForm][1])"/>
             </xsl:when>
             <xsl:otherwise>
-               <xsl:value-of select="lib:format-eac-name(eac:nameEntry[1])"/>
+               <xsl:value-of select="local:format-eac-name(eac:nameEntry[1])"/>
                <xsl:if test="following-sibling::eac:description/eac:existDates"><xsl:text>, </xsl:text>
                   <xsl:choose>
                      <xsl:when test="following-sibling::eac:description/eac:existDates/eac:dateRange">
@@ -69,7 +105,7 @@
       <!-- and all forms go in the index -->
       <xsl:for-each select="eac:nameEntry">
          <field name="eac-name-entry">
-            <xsl:value-of select="lib:format-eac-name(current())"/>
+            <xsl:value-of select="local:format-eac-name(current())"/>
          </field>
       </xsl:for-each>
    </xsl:template>

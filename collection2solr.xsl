@@ -10,6 +10,9 @@
    <xsl:output indent="yes"/>
 
    <xsl:include href="lib.xsl"/>
+   <xsl:include href="repo-codes.xsl" />
+   <xsl:include href="physloc-codes.xsl"/>
+   <xsl:include href="language-codes.xsl"/>
 
    <xsl:template match="/" as="element()">
       <add allowDups="false">
